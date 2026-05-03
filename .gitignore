@@ -1,0 +1,19 @@
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+
+# Node (if you ever add tooling)
+node_modules/
+
+# Old globe.gl textures — replaced by Cesium tiles, no longer used
+earth-day-8k.jpg
+earth-night-8k.jpg
+
+# Local-only logs / scratch
+*.log
+.cache/
