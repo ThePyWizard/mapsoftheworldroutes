@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<title>Maps of the World Routes — Roadtrips on a Spinning Globe</title>
+<meta name="description" content="Explore viral roadtrips from around the world on an interactive 3D globe. Tap a route to open it directly inside the TravelAnimator app." />
+<meta name="theme-color" content="#05060a" />
+<link rel="icon" type="image/png" sizes="500x500" href="logo.png" />
+<link rel="apple-touch-icon" href="logo.png" />
+<link rel="preconnect" href="https://cesium.com" crossorigin />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" />
+<link rel="stylesheet" href="https://cesium.com/downloads/cesiumjs/releases/1.123/Build/Cesium/Widgets/widgets.css" />
+<link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+<div id="loader" class="loader">
+  <div class="loader-inner">
+    <img class="loader-logo" src="logo.png" alt="map the world" />
+    <div class="loader-text">Spinning up the globe…</div>
+  </div>
+</div>
+
+<header class="topbar">
+  <a class="brand" href="/" aria-label="Maps of the World Routes">
+    <img class="brand-mark" src="logo.png" alt="map the world" />
+    <span class="brand-name">routes</span>
+  </a>
+  <nav class="topbar-nav">
+    <a href="#routes" class="nav-link">Routes</a>
+    <a href="#about" class="nav-link">About</a>
+    <a id="appBtn" href="#" class="cta" target="_blank" rel="noopener noreferrer">Get the app</a>
+  </nav>
+</header>
+
+<main class="stage">
+
+  <!-- Globe canvas -->
+  <section class="globe-pane" aria-label="Interactive 3D globe">
+    <div id="globe"></div>
+
+    <div class="globe-overlay">
+      <div class="overlay-top">
+        <div class="kicker">3D · Live · Interactive</div>
+        <h1 class="hero-title">
+          Roadtrips,<br/>plotted on the planet.
+        </h1>
+        <p class="hero-sub">
+          Every route here is a real itinerary I built and posted on TikTok, Instagram and YouTube. Tap one to open it directly in TravelAnimator.
+        </p>
+        <div class="hero-meta">
+          <span id="routeCount">—</span> routes ·
+          <span id="countryCount">—</span> countries ·
+          <span id="totalDistance">—</span> km plotted
+        </div>
+      </div>
+
+      <div class="overlay-hint">
+        <span class="dot"></span>
+        <span id="hintText">Pick a route on the right to plot it on the globe</span>
+      </div>
+    </div>
+
+    <!-- Cesium Ion / Bing Maps attribution mounts here. Required by license. -->
+    <div id="cesiumCredits" class="cesium-credits"></div>
+  </section>
+
+  <!-- Side panel: route list + selected detail -->
+  <aside class="panel" id="panel" aria-label="Route list and details">
+    <div class="panel-tabs">
+      <button class="tab active" data-tab="list">All routes</button>
+      <button class="tab" data-tab="detail" id="detailTab" disabled>Details</button>
+    </div>
+
+    <!-- LIST view -->
+    <div class="panel-view list-view" id="listView">
+      <div class="search">
+        <input id="searchInput" type="search" placeholder="Search a city, country, or route…" autocomplete="off" />
+      </div>
+      <div class="list" id="routeList"></div>
+    </div>
+
+    <!-- DETAIL view -->
+    <div class="panel-view detail-view hidden" id="detailView">
+      <button class="back-btn" id="backBtn">← All routes</button>
+      <div id="detailContent"></div>
+    </div>
+  </aside>
+
+</main>
+
+<section id="about" class="about">
+  <div class="about-inner">
+    <div class="about-col">
+      <div class="kicker">What is this?</div>
+      <h2>Every viral roadtrip, on one spinning planet.</h2>
+      <p>
+        I post travel itineraries on TikTok, Instagram and YouTube as <strong>@mapsoftheworldroutes</strong>. Each one is animated using <a href="https://travelanimator.com" target="_blank" rel="noopener">TravelAnimator</a>. This site brings them all together — pick a route, preview it on the globe, and open the exact same animation in the app.
+      </p>
+    </div>
+    <div class="about-col">
+      <div class="kicker">How it works</div>
+      <ol class="steps">
+        <li><span>1</span> Spin the globe and click any glowing arc.</li>
+        <li><span>2</span> Read the script and see what makes the route trending.</li>
+        <li><span>3</span> Tap <em>Open in TravelAnimator</em> — the app launches the exact route.</li>
+      </ol>
+    </div>
+  </div>
+</section>
+
+<footer class="foot">
+  <div>© <span id="year"></span> mapsoftheworldroutes</div>
+  <div class="foot-links">
+    <a href="https://tiktok.com/@mapsoftheworldroutes" target="_blank" rel="noopener">TikTok</a>
+    <a href="https://instagram.com/mapsoftheworldroutes" target="_blank" rel="noopener">Instagram</a>
+    <a href="https://youtube.com/@mapsoftheworldroutes" target="_blank" rel="noopener">YouTube</a>
+  </div>
+</footer>
+
+<script src="https://cesium.com/downloads/cesiumjs/releases/1.123/Build/Cesium/Cesium.js"></script>
+<script src="config.js"></script>
+<script src="geocode.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

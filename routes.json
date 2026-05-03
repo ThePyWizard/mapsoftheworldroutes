@@ -1,0 +1,1186 @@
+[
+  {
+    "id": 1,
+    "title": "Las Vegas to Zion National Park",
+    "origin": "Las Vegas, NV",
+    "destination": "Zion National Park, UT",
+    "waypoints": [],
+    "script": "Did you know for about $20 in gas you could drive from Las Vegas all the way to Zion National Park? This drive has been blowing up on social media for good reason. You go from the neon lights of the Strip to some of the most jaw-dropping canyon scenery on the planet — all in under three hours. The red rock walls, the emerald pools, the Angels Landing views. Whether you're chasing adventure or just the perfect shot, this road trip delivers from mile one to the very last exit. Have you done this drive? Drop it in the comments.",
+    "googleMapsUrl": "https://www.google.com/maps/dir/Las+Vegas,+NV/Zion+National+Park,+UT",
+    "whyTrending": "Utah's Mighty 5 trending heavily on TikTok and Reddit in spring 2026",
+    "scriptDurationSeconds": 45,
+    "audioFile": "route-1-audio.wav",
+    "videoFile": "route-1-video.mp4",
+    "sfxFile": "car-voice-trimmed.wav",
+    "totalDistance": 160,
+    "captionStyle": 1
+  },
+  {
+    "id": 2,
+    "title": "Seattle to San Francisco",
+    "origin": "Seattle, WA",
+    "destination": "San Francisco, CA",
+    "waypoints": [],
+    "script": "Did you know for about $100 in gas you could drive from Seattle all the way down to San Francisco along the Pacific Coast Highway? This is America's most iconic coastal drive and it's trending harder than ever in 2026. You hug the Pacific the whole way down — sea cliffs, redwood forests, Big Sur's dramatic headlands, and Monterey's foggy shores. Wide-open views at every turn, the kind that make you pull over and just stare. Save this one before you scroll past.",
+    "googleMapsUrl": "https://www.google.com/maps/dir/Seattle,+WA/San+Francisco,+CA",
+    "whyTrending": "Pacific Coast Highway named top EV-friendly scenic drive for 2026",
+    "scriptDurationSeconds": 35,
+    "audioFile": "route-2-audio.wav",
+    "videoFile": "route-2-video.mp4",
+    "sfxFile": "car-voice-trimmed.wav",
+    "totalDistance": 810,
+    "captionStyle": 1
+  },
+  {
+    "id": 3,
+    "title": "Asheville to Roanoke",
+    "origin": "Asheville, NC",
+    "destination": "Roanoke, VA",
+    "waypoints": [],
+    "script": "Did you know for about $25 in gas you could drive from Asheville to Roanoke along the Blue Ridge Parkway? Spring wildflowers are peaking and this route is all over travel feeds for a reason. Rolling mountains, scenic overlooks, historic sites, and some of the best hiking access in the eastern US. It's the kind of drive where you lose track of time in the best possible way. Grab a co-pilot, load up the playlist, and make it happen. Which overlook would you most want to stop at?",
+    "googleMapsUrl": "https://www.google.com/maps/dir/Asheville,+NC/Roanoke,+VA",
+    "whyTrending": "Blue Ridge Parkway spring wildflower season trending on Reddit r/roadtrips",
+    "scriptDurationSeconds": 40,
+    "audioFile": "route-3-audio.wav",
+    "videoFile": "route-3-video.mp4",
+    "sfxFile": "car-voice-trimmed.wav",
+    "totalDistance": 220,
+    "captionStyle": 1
+  },
+  {
+    "id": 4,
+    "title": "Route 66: Chicago to Santa Monica",
+    "origin": "Chicago, IL",
+    "destination": "Santa Monica, CA",
+    "waypoints": [
+      "St. Louis, MO",
+      "Oklahoma City, OK",
+      "Amarillo, TX",
+      "Albuquerque, NM",
+      "Flagstaff, AZ"
+    ],
+    "script": "Did you know for about $300 in gas you could drive the entire Route 66 from Chicago to Santa Monica — 2,448 miles of pure American history? 2026 is THE year to do it, because the Mother Road just turned 100 years old and the entire country is celebrating. Diners frozen in time, neon signs lighting up the desert, ghost towns, wide-open stretches where you feel like the last person on earth. Eight states. One legendary highway. The centennial events are happening all year in towns you've never heard of — and that's exactly the point. Have you ever driven the whole thing?",
+    "googleMapsUrl": "https://www.google.com/maps/dir/Chicago,+IL/St.+Louis,+MO/Oklahoma+City,+OK/Amarillo,+TX/Albuquerque,+NM/Flagstaff,+AZ/Santa+Monica,+CA",
+    "whyTrending": "Route 66 Centennial 100th anniversary in 2026 — massive national media coverage and events all year",
+    "scriptDurationSeconds": 45,
+    "audioFile": "route-4-audio.wav",
+    "videoFile": "route-4-video.mp4",
+    "sfxFile": "car-voice-trimmed.wav",
+    "totalDistance": 2448,
+    "captionStyle": 1
+  },
+  {
+    "id": 5,
+    "title": "Iceland Golden Circle",
+    "origin": "Reykjavik, Iceland",
+    "destination": "Reykjavik, Iceland",
+    "waypoints": [
+      "Þingvellir National Park, Iceland",
+      "Geysir, Iceland",
+      "Gullfoss, Iceland"
+    ],
+    "script": "Did you know for about $40 in fuel you could drive Iceland's entire Golden Circle and be back in Reykjavík the same day? March is still prime northern lights season and the waterfalls are running full force right now. You hit the greatest hits in one loop: tectonic plates splitting apart at Þingvellir, the Geysir geyser shooting boiling water 30 meters into the sky, and Gullfoss waterfall roaring under clouds of mist. No other country packs this much spectacle into 230 kilometers. Would you do this in winter or summer?",
+    "googleMapsUrl": "https://www.google.com/maps/dir/Reykjavik,+Iceland/Þingvellir+National+Park,+Iceland/Geysir,+Iceland/Gullfoss,+Iceland/Reykjavik,+Iceland",
+    "whyTrending": "Iceland northern lights hitting peak visibility in March 2026, best chance in a decade per aurora forecasters",
+    "scriptDurationSeconds": 40,
+    "audioFile": "route-5-audio.wav",
+    "videoFile": "route-5-video.mp4",
+    "sfxFile": "car-voice-trimmed.wav",
+    "totalDistance": 143,
+    "captionStyle": 1
+  },
+  {
+    "id": 6,
+    "title": "Philadelphia to Washington D.C.",
+    "origin": "Philadelphia, PA",
+    "destination": "Washington, D.C.",
+    "waypoints": [
+      "Valley Forge, PA",
+      "Baltimore, MD"
+    ],
+    "script": "Did you know for about $17 in gas you could drive from Philadelphia to Washington D.C. — straight through the ground where America was born? America turns 250 this July, and this route right here is where it all started. The Liberty Bell, Independence Hall, Valley Forge where Washington's army survived the impossible winter, and then into D.C. where every monument tells a chapter of the story. This drive hits different in 2026. History isn't just in the books — it's right outside your window. What's the most historic place you've ever driven through?",
+    "googleMapsUrl": "https://www.google.com/maps/dir/Philadelphia,+PA/Valley+Forge,+PA/Baltimore,+MD/Washington,+DC",
+    "whyTrending": "America 250th anniversary July 2026 driving massive interest in US historical routes and founding landmarks",
+    "scriptDurationSeconds": 40,
+    "audioFile": "route-6-audio.wav",
+    "videoFile": "route-6-video.mp4",
+    "sfxFile": "car-voice-trimmed.wav",
+    "totalDistance": 140,
+    "captionStyle": 1
+  },
+  {
+    "id": 7,
+    "title": "Milan to Cortina d'Ampezzo",
+    "origin": "Milan, Italy",
+    "destination": "Cortina d'Ampezzo, Italy",
+    "waypoints": [
+      "Verona, Italy",
+      "Trento, Italy",
+      "Bolzano, Italy"
+    ],
+    "script": "Did you know for about €50 in fuel you could drive from Milan to Cortina d'Ampezzo — the exact route the world's greatest athletes are traveling right now for the 2026 Winter Paralympics? The Games opened in Verona just days ago and the whole world is watching this corner of Italy. You pass through Verona, where the Opening Ceremony lit up the Arena. Then into the Dolomites — UNESCO World Heritage mountains so dramatic they look like they were painted. Cortina itself is a postcard village wrapped in snow and adrenaline. Over 665 Paralympic athletes from around the world are competing here this month. Could you think of a better excuse to drive through the Italian Alps?",
+    "googleMapsUrl": "https://www.google.com/maps/dir/Milan,+Italy/Verona,+Italy/Trento,+Italy/Bolzano,+Italy/Cortina+d'Ampezzo,+Italy",
+    "whyTrending": "2026 Winter Paralympics Milano-Cortina opened March 6 — live Games, global media coverage, Dolomites at peak season",
+    "scriptDurationSeconds": 45,
+    "audioFile": "route-7-audio.wav",
+    "videoFile": "route-7-video.mp4",
+    "sfxFile": "car-voice-trimmed.wav",
+    "totalDistance": 250,
+    "captionStyle": 1
+  },
+  {
+    "id": 8,
+    "title": "Melbourne to Adelaide via Great Ocean Road",
+    "origin": "Melbourne, Australia",
+    "destination": "Adelaide, SA, Australia",
+    "waypoints": [
+      "Geelong, VIC, Australia",
+      "Apollo Bay, VIC, Australia",
+      "Port Campbell, VIC, Australia",
+      "Warrnambool, VIC, Australia"
+    ],
+    "script": "Did you know for about $80 in fuel you could drive from Melbourne to Adelaide along the Great Ocean Road — one of the most spectacular coastal drives on the planet? March in Australia is the sweet spot — summer crowds are gone, the weather is perfect, and this is exactly when travel feeds are blowing up with this route. You hug the Southern Ocean the whole way: surf beaches, rainforest gorges, and then the Twelve Apostles — giant limestone stacks rising straight out of the sea. No guardrails between you and the edge of the earth. If you only do one road trip in the Southern Hemisphere, make it this one. Would you drive it all in one go or take a week?",
+    "googleMapsUrl": "https://www.google.com/maps/dir/Melbourne,+VIC,+Australia/Geelong,+VIC,+Australia/Apollo+Bay,+VIC,+Australia/Port+Campbell,+VIC,+Australia/Warrnambool,+VIC,+Australia/Adelaide,+SA,+Australia",
+    "whyTrending": "Australia March travel trending heavily in 2026 — Melbourne and Great Ocean Road named top destinations for autumn shoulder season",
+    "scriptDurationSeconds": 45,
+    "audioFile": "route-8-audio.wav",
+    "videoFile": "route-8-video.mp4",
+    "sfxFile": "car-voice-trimmed.wav",
+    "totalDistance": 560,
+    "captionStyle": 1
+  },
+  {
+    "id": 9,
+    "title": "Cape Town to Port Elizabeth via Garden Route",
+    "origin": "Cape Town, South Africa",
+    "destination": "Port Elizabeth, South Africa",
+    "waypoints": [
+      "Hermanus, South Africa",
+      "George, South Africa",
+      "Knysna, South Africa",
+      "Plettenberg Bay, South Africa"
+    ],
+    "script": "Did you know for about $60 in fuel you could drive South Africa's entire Garden Route — one of the most talked-about road trips on the planet right now? This 800-kilometer stretch of coastline is having a serious moment in 2026. You leave Cape Town and within an hour you're hugging cliffs above the Indian Ocean, watching whales breach at Hermanus, the whale watching capital of the world. Then through Knysna's famous lagoon — turquoise water framed by ancient forested heads. Plettenberg Bay's white sand beaches. Tsitsikamma's ancient rainforest canopy. The air smells like pine and salt the whole way. This is road trip heaven and people are just now waking up to it. Would you fly to South Africa just to drive this?",
+    "googleMapsUrl": "https://www.google.com/maps/dir/Cape+Town,+South+Africa/Hermanus,+South+Africa/George,+South+Africa/Knysna,+South+Africa/Plettenberg+Bay,+South+Africa/Port+Elizabeth,+South+Africa",
+    "whyTrending": "South Africa Garden Route named road trip destination of 2026 by multiple major travel publications — March is peak whale watching season at Hermanus",
+    "scriptDurationSeconds": 45,
+    "audioFile": "route-9-audio.wav",
+    "videoFile": "route-9-video.mp4",
+    "sfxFile": "car-voice-trimmed.wav",
+    "totalDistance": 500,
+    "captionStyle": 1
+  },
+  {
+    "id": 10,
+    "title": "Hiroshima to Tokyo",
+    "origin": "Hiroshima, Japan",
+    "destination": "Tokyo, Japan",
+    "waypoints": [
+      "Kyoto, Japan",
+      "Nara, Japan",
+      "Mount Fuji, Japan"
+    ],
+    "script": "Did you know right now — for under $100 in rail passes — you can chase cherry blossoms from Hiroshima all the way to Tokyo? The window is only open for days. Hiroshima's blooms are peaking this week, then Kyoto explodes in pink, and Tokyo hits full sakura by March 20th. Ancient temples buried under flowers. The Chureito Pagoda with Mount Fuji as your backdrop. Lantern-lit nighttime sakura walks that look completely unreal. This is the most photographed two weeks in Japan and the world is flying in for it right now. The blooms don't wait — would you drop everything and book a flight?",
+    "googleMapsUrl": "https://www.google.com/maps/dir/Hiroshima,+Japan/Kyoto,+Japan/Nara,+Japan/Mount+Fuji,+Japan/Tokyo,+Japan",
+    "whyTrending": "Japan cherry blossom season 2026 — Tokyo peak bloom forecast March 19-21, Kyoto March 24-31. Sakura content is dominating global TikTok travel feeds with the shortest annual window creating massive FOMO",
+    "scriptDurationSeconds": 40,
+    "audioFile": "route-10-audio.wav",
+    "videoFile": "route-10-video.mp4",
+    "sfxFile": "train-voice.mp3",
+    "totalDistance": 520,
+    "captionStyle": 1
+  },
+  {
+    "id": 11,
+    "title": "Mizen Head to Malin Head",
+    "origin": "Mizen Head, Ireland",
+    "destination": "Malin Head, Ireland",
+    "waypoints": [
+      "Killarney, Ireland",
+      "Cliffs of Moher, Ireland",
+      "Galway, Ireland",
+      "Slieve League, Ireland"
+    ],
+    "script": "Did you know you can drive the entire length of Ireland — tip to top along the Wild Atlantic Way — for about 60 euros in fuel? And this week is the single greatest time to do it. St. Patrick's Day is days away and every town from Cork to Donegal is alive with music, green flags, and genuine Irish craic. The Cliffs of Moher at sunrise before the tour buses arrive. Galway's medieval streets packed with festival crowds. Slieve League cliffs — three times the height of Moher and half the crowds. This is the road trip Ireland doesn't advertise. And it is having its biggest moment right now. Would you drive it end to end?",
+    "googleMapsUrl": "https://www.google.com/maps/dir/Mizen+Head,+Ireland/Killarney,+Ireland/Cliffs+of+Moher,+Ireland/Galway,+Ireland/Slieve+League,+Ireland/Malin+Head,+Ireland",
+    "whyTrending": "St. Patrick's Day March 17 2026 — Cork, Galway and Donegal festivals running March 14-17. Wild Atlantic Way named top road trip of 2026 by Lonely Planet. Irish tourism at record highs for spring shoulder season",
+    "scriptDurationSeconds": 42,
+    "audioFile": "route-11-audio.wav",
+    "videoFile": "route-11-video.mp4",
+    "sfxFile": "car-voice-trimmed.wav",
+    "totalDistance": 400,
+    "captionStyle": 1
+  },
+  {
+    "id": 12,
+    "title": "Austin to Marfa",
+    "origin": "Austin, TX",
+    "destination": "Marfa, TX",
+    "waypoints": [
+      "Fredericksburg, TX",
+      "Junction, TX",
+      "Alpine, TX"
+    ],
+    "script": "Did you know for about $40 in gas you can drive from Austin to Marfa — one of the strangest and most beautiful roads in America? Right now the Texas Hill Country is covered wall to wall in bluebonnets. Purple-blue wildflower fields going to the horizon in every direction. Then the landscape shifts to high desert mountain passes, and you roll into Marfa — a town of 2,000 people that somehow became one of the most talked-about art destinations in the world. Donald Judd's giant steel sculptures in the open desert. The Prada Marfa installation that makes zero sense and all the sense. The mysterious Marfa Lights people drive hours just to see. This road has been going viral every March for a reason. Have you done it?",
+    "googleMapsUrl": "https://www.google.com/maps/dir/Austin,+TX/Fredericksburg,+TX/Junction,+TX/Alpine,+TX/Marfa,+TX",
+    "whyTrending": "Texas bluebonnet wildflower season peaks mid-March 2026 — Hill Country fields are wall-to-wall purple. Marfa art scene trending heavily on TikTok and Instagram with the Prada Marfa installation going viral again in spring 2026",
+    "scriptDurationSeconds": 45,
+    "audioFile": "route-12-audio.wav",
+    "videoFile": "route-12-video.mp4",
+    "sfxFile": "car-voice-trimmed.wav",
+    "totalDistance": 360,
+    "captionStyle": 1
+  },
+  {
+    "id": 13,
+    "title": "San Francisco to Los Angeles via Big Sur",
+    "origin": "San Francisco, CA",
+    "destination": "Los Angeles, CA",
+    "waypoints": [
+      "Half Moon Bay, CA",
+      "Santa Cruz, CA",
+      "Monterey, CA",
+      "Big Sur, CA",
+      "San Simeon, CA",
+      "Santa Barbara, CA"
+    ],
+    "script": "Did you know for under $1,000 you can drive one of the most beautiful roads on Earth — and it just reopened after being closed for three years? Pacific Coast Highway through Big Sur, California was shut down after a massive landslide wiped out the road. In 2026, it is finally, fully open again. We're talking 442 miles of sheer cliffs dropping into the Pacific, sea otters floating in kelp forests, elephant seals on the beach, and the kind of views that genuinely break your brain. Whale watching season is happening right now in the waters below. People have been waiting years to drive this. The question is — now that the most scenic road in America is open again, what's your excuse not to go?",
+    "googleMapsUrl": "https://www.google.com/maps/dir/San+Francisco,+CA/Half+Moon+Bay,+CA/Santa+Cruz,+CA/Monterey,+CA/Big+Sur,+CA/San+Simeon,+CA/Santa+Barbara,+CA/Los+Angeles,+CA",
+    "whyTrending": "Pacific Coast Highway through Big Sur fully reopened in early 2026 after a 3-year closure from landslides — biggest US road trip news of the year. March is peak whale watching season along the central coast.",
+    "scriptDurationSeconds": 44,
+    "audioFile": "route-13-audio.wav",
+    "videoFile": "route-13-video.mp4",
+    "sfxFile": "car-voice-trimmed.wav",
+    "totalDistance": 442,
+    "captionStyle": 1
+  },
+  {
+    "id": 14,
+    "title": "Banff to Jasper on the Rocky Mountaineer",
+    "origin": "Banff, Alberta, Canada",
+    "destination": "Jasper, Alberta, Canada",
+    "waypoints": [
+      "Lake Louise, AB, Canada",
+      "Spiral Tunnels, BC, Canada",
+      "Kamloops, BC, Canada"
+    ],
+    "script": "Did you know there's a drive through the Canadian Rockies that only makes sense in 2026 — and after this summer, the window basically closes? The Icefields Parkway between Banff and Jasper is already one of the most jaw-dropping roads on the planet. But this summer, with the FIFA World Cup coming to Canada, the entire stretch is buzzing like never before. Turquoise glacial lakes. The Continental Divide. The Columbia Icefield spilling down between peaks that look completely unreal. You're behind the wheel, windows down, the Rockies just happening around you. No train schedule. No assigned seat. You stop when something breaks your brain — and something will, every twenty minutes. The crowds won't be this electric again for years. So if you've ever dreamed of the Canadian Rockies — is this the sign you needed?",
+    "googleMapsUrl": "https://www.google.com/maps/dir/Banff,+AB,+Canada/Lake+Louise,+AB,+Canada/Jasper,+AB,+Canada",
+    "whyTrending": "Rocky Mountaineer launched a 2026-only limited 'Passage to the Peaks' route between Banff and Jasper — tied to FIFA World Cup 2026 in Canada. Only 4 weekends available, already selling fast. Covered by AFAR, Wanderlust, CNN.",
+    "scriptDurationSeconds": 47,
+    "audioFile": "route-14-audio.wav",
+    "videoFile": "route-14-video.mp4",
+    "sfxFile": "train-voice.mp3",
+    "totalDistance": 180,
+    "captionStyle": 1
+  },
+  {
+    "id": 15,
+    "title": "Paris to the Amalfi Coast by Train",
+    "origin": "Paris, France",
+    "destination": "Ravello, Italy",
+    "waypoints": [
+      "Nice, France",
+      "Genoa, Italy",
+      "Rome, Italy",
+      "Pompeii, Italy"
+    ],
+    "script": "Did you know you can now board the most famous train in the world in Paris and wake up on the Amalfi Coast of Italy — and this trip has never been possible until right now? The Venice Simplon-Orient-Express just launched a brand new route: Paris to the Amalfi Coast, three days of the most cinematic train journey ever imagined. You glide through the French and Italian Rivieras, past the ruins of Pompeii, and pull into the cliffs of Ravello where a palace hotel is waiting for you. Gourmet dinners, live piano in the bar car, Art Deco sleeping cabins, and views through vintage windows of coastlines that have inspired poets for centuries. The inaugural departure already sold out. Yes, it costs a lot — but even if this is a dream trip for now, drop a comment: would you blow your savings on this train?",
+    "googleMapsUrl": "https://www.google.com/maps/dir/Paris,+France/Nice,+France/Genoa,+Italy/Rome,+Italy/Amalfi,+Italy",
+    "whyTrending": "Venice Simplon-Orient-Express launched the first-ever Paris to Amalfi Coast route in 2026 — inaugural departure May 4-7 already fully booked. Gone viral across luxury travel TikTok and aspirational travel content. Covered by Robb Report, AFAR, CNN.",
+    "scriptDurationSeconds": 45,
+    "audioFile": "route-15-audio.wav",
+    "videoFile": "route-15-video.mp4",
+    "sfxFile": "train-voice.mp3",
+    "totalDistance": 1000,
+    "captionStyle": 1
+  },
+  {
+    "id": 16,
+    "title": "Pacific Northwest Tulip Trail: Portland to Mount Vernon",
+    "origin": "Portland, OR",
+    "destination": "Mount Vernon, WA",
+    "waypoints": [
+      "Woodburn, OR",
+      "Seattle, WA",
+      "Tulip Town, WA"
+    ],
+    "script": "Did you know for about $60 in gas you can drive the Pacific Northwest Tulip Trail — and right now the fields are literally exploding in color? Two of the most viral flower festivals in America are happening simultaneously this week. In Woodburn, Oregon, the Wooden Shoe Tulip Festival has 40 acres of tulips so dense they don't look real — hot air balloons floating above fields of red, yellow, and purple. Then you cruise through Seattle and up into the Skagit Valley, where 300 acres across five farms turn the entire valley floor into a painting. The mild winter pushed blooms early this year — Tulip Town opened four days ahead of schedule. This window is short. In three weeks it's over. So — would you drop everything and drive it right now?",
+    "googleMapsUrl": "https://www.google.com/maps/dir/Portland,+OR/Woodburn,+OR/Seattle,+WA/Mount+Vernon,+WA",
+    "whyTrending": "Dual tulip festivals running simultaneously in March-April 2026: Wooden Shoe Tulip Festival (Woodburn, OR) and Skagit Valley Tulip Festival (Mount Vernon, WA). Mild 2026 winter caused early bloom — Tulip Town opened March 28, 4 days ahead of schedule. Flooding Instagram and Pinterest with viral content.",
+    "scriptDurationSeconds": 44,
+    "audioFile": "route-16-audio.wav",
+    "videoFile": "route-16-video.mp4",
+    "sfxFile": "car-voice-trimmed.wav",
+    "totalDistance": 310,
+    "captionStyle": 1
+  },
+  {
+    "id": 17,
+    "title": "Miami to Key West via the Overseas Highway",
+    "origin": "Miami, FL",
+    "destination": "Key West, FL",
+    "waypoints": [
+      "Key Largo, FL",
+      "Islamorada, FL",
+      "Marathon, FL",
+      "Seven Mile Bridge, FL"
+    ],
+    "script": "Did you know for about $25 in gas you can drive one of the most surreal roads in America — a highway built entirely over the ocean? The Overseas Highway runs 160 miles from Miami to Key West across 42 bridges, and the Seven Mile Bridge stretches so far across open water that you can't see land on either side. Right now it is peak spring break season and Key West is basically the entire country's backyard party. Eighty-two degrees. Clear water on both sides of the road. The sun setting over the Gulf while you're halfway over the bridge. Tarpon jumping at Islamorada. And Key West itself — the southernmost point in the continental US, where the rules are different and the nightlife doesn't quit. If there's one drive you do this spring, make it this one. Have you made it to the end of the road?",
+    "googleMapsUrl": "https://www.google.com/maps/dir/Miami,+FL/Key+Largo,+FL/Islamorada,+FL/Marathon,+FL/Key+West,+FL",
+    "whyTrending": "Florida is the #1 searched domestic spring break destination for 2026. Key West named to Fodor's 2026 Go List. Overseas Highway spring break traffic at peak right now — 75-82°F weather, dry season, and massive social media buzz from travel creators driving coast-to-coast interest.",
+    "scriptDurationSeconds": 46,
+    "audioFile": "route-17-audio.wav",
+    "videoFile": "route-17-video.mp4",
+    "sfxFile": "car-voice-trimmed.wav",
+    "totalDistance": 160,
+    "captionStyle": 1
+  },
+  {
+    "id": 18,
+    "title": "Austin to Big Bend National Park",
+    "origin": "Austin, TX",
+    "destination": "Big Bend National Park, TX",
+    "waypoints": [
+      "Fredericksburg, TX",
+      "Fort Stockton, TX",
+      "Marathon, TX"
+    ],
+    "script": "Did you know for about $85 in gas you can drive from Austin to one of the least-visited and most otherworldly national parks in America — and right now is the single best time to go? March is Big Bend's peak season for a reason: perfect weather, desert wildflowers blooming in the Chisos Basin, and the clearest dark skies in the lower 48. No light pollution. No phone signal. Just stars from horizon to horizon so thick you feel like you're inside the Milky Way. The drive itself shifts from Texas Hill Country to pure high desert — the Chisos Mountains rising out of nowhere, the Rio Grande cutting through Santa Elena Canyon. You're looking at Mexico from the canyon rim with zero crowds. This park gets less visitors in a year than Yellowstone gets in a week. So why aren't more people talking about it? Drop a comment if you've been.",
+    "googleMapsUrl": "https://www.google.com/maps/dir/Austin,+TX/Fredericksburg,+TX/Fort+Stockton,+TX/Marathon,+TX/Big+Bend+National+Park,+TX",
+    "whyTrending": "March is Big Bend's absolute peak season — perfect weather, desert wildflowers in bloom, and best dark-sky stargazing of the year. Spring break travelers seeking alternatives to beach crowds are driving a surge of TikTok and Reddit content from the Texas road trip community in March 2026.",
+    "scriptDurationSeconds": 46,
+    "audioFile": "route-18-audio.wav",
+    "videoFile": "route-18-video.mp4",
+    "sfxFile": "car-voice-trimmed.wav",
+    "totalDistance": 450,
+    "captionStyle": 1
+  },
+  {
+    "id": 19,
+    "title": "Las Vegas to Grand Canyon via Hidden Side of the West",
+    "origin": "Las Vegas, NV",
+    "destination": "Grand Canyon Village, AZ",
+    "waypoints": [
+      "Cathedral Gorge State Park, NV",
+      "Great Basin National Park, NV",
+      "St. George, UT",
+      "Zion National Park, UT"
+    ],
+    "script": "Did you know for about $80 in gas you can drive the road trip that just got named the number one trip in America for 2026 — and most people have still never heard of it? The Hidden Side of the West skips the tourist crowds and pairs the bucket list with empty roads. You leave Las Vegas and pass through Cathedral Gorge — a Nevada state park where erosion carved columns of clay into something that looks like another planet. Then Great Basin National Park, where ancient bristlecone pines are 5,000 years old and the night sky is pure Milky Way. Then Zion. Then the Grand Canyon's less-crowded South Rim. RVShare just named this the road trip of the year — a refreshing alternative to the usual national park checklist. Spring weather is perfect right now and the crowds haven't caught on yet. Is this your sign to take the road less traveled?",
+    "googleMapsUrl": "https://www.google.com/maps/dir/Las+Vegas,+NV/Cathedral+Gorge+State+Park,+NV/Great+Basin+National+Park,+NV/St.+George,+UT/Zion+National+Park,+UT/Grand+Canyon+Village,+AZ",
+    "whyTrending": "Named #1 Road Trip of 2026 by RVShare — pairs iconic landmarks (Grand Canyon, Zion) with crowd-free parks (Cathedral Gorge, Great Basin NP). Trending across road trip communities as the 'alternative' bucket list route for spring 2026.",
+    "scriptDurationSeconds": 45,
+    "audioFile": "route-19-audio.wav",
+    "videoFile": "route-19-video.mp4",
+    "sfxFile": "car-voice-trimmed.wav",
+    "totalDistance": 480,
+    "captionStyle": 1
+  },
+  {
+    "id": 20,
+    "title": "Utah's Mighty Five: Salt Lake City to St. George",
+    "origin": "Salt Lake City, UT",
+    "destination": "St. George, UT",
+    "waypoints": [
+      "Arches National Park, UT",
+      "Canyonlands National Park, UT",
+      "Capitol Reef National Park, UT",
+      "Bryce Canyon National Park, UT",
+      "Zion National Park, UT"
+    ],
+    "script": "Did you know for about $120 in gas you can complete Utah's Mighty Five — all five national parks in one epic loop — and right now is the single best time to do it? Spring is the magic window. Snowmelt is rushing down canyon walls. Wildflowers are blooming in meadows nobody knows about. Temperatures are a perfect 65 degrees. You start at Arches, where 2,000 sandstone arches frame the sky in impossible shapes. Then Canyonlands, America's most underrated canyon. Capitol Reef, which barely anyone visits despite being spectacular. Bryce Canyon's alien hoodoo spires glowing orange at sunrise. And Zion at the finish line — the crown jewel of the American Southwest. Five parks, five completely different landscapes, one 500-mile loop through the most concentrated scenery on earth. Spring is peak season and it doesn't last long. Have you done the Mighty Five?",
+    "googleMapsUrl": "https://www.google.com/maps/dir/Salt+Lake+City,+UT/Arches+National+Park,+UT/Canyonlands+National+Park,+UT/Capitol+Reef+National+Park,+UT/Bryce+Canyon+National+Park,+UT/Zion+National+Park,+UT/St.+George,+UT",
+    "whyTrending": "Spring 2026 is peak season for Utah's national parks — perfect 60-80°F temps, snowmelt waterfalls, and wildflowers make March-May the optimal window. Utah's Mighty Five circuit is consistently the most-searched multi-park road trip in the US, surging again in March 2026 spring break planning.",
+    "scriptDurationSeconds": 44,
+    "audioFile": "route-20-audio.wav",
+    "videoFile": "route-20-video.mp4",
+    "sfxFile": "car-voice-trimmed.wav",
+    "totalDistance": 500,
+    "captionStyle": 1
+  },
+  {
+    "id": 21,
+    "title": "Kailua-Kona to Hilo on the Big Island",
+    "origin": "Kailua-Kona, HI",
+    "destination": "Hilo, HI",
+    "waypoints": [
+      "Hawaii Volcanoes National Park, HI",
+      "Akaka Falls State Park, HI"
+    ],
+    "script": "Did you know the fastest-rising spring break destination in America in 2026 isn't Miami or Cancún — it's a small town in Hawaii that most people fly right past? Searches for Hilo on the Big Island just jumped 60 percent compared to last year. Drive from Kona and you'll understand why. You leave the luxury resorts of the Kohala Coast and enter a completely different Hawaii. Hawaii Volcanoes National Park, where lava has been reshaping the island for decades. Akaka Falls, dropping 442 feet straight down into a jungle gorge that looks straight out of a movie. Then Hilo itself — a sleepy waterfront town with rainbow eucalyptus forests, black sand beaches, and farmers markets that make you want to never leave. Hawaii without the crowds, without the markup, without the Instagram line. Hilo is what Hawaii was before everyone found out. Would you choose it over Honolulu?",
+    "googleMapsUrl": "https://www.google.com/maps/dir/Kailua-Kona,+HI/Hawaii+Volcanoes+National+Park,+HI/Akaka+Falls+State+Park,+HI/Hilo,+HI",
+    "whyTrending": "Hilo, HI recorded the largest year-over-year increase in spring break flight searches of any US domestic destination in 2026 — a 60% jump per Kayak data. Google Trends confirms it as the #1 fastest-rising spring break destination. Anti-overtourism travel trend driving interest in Hilo as an alternative to Honolulu.",
+    "scriptDurationSeconds": 44,
+    "audioFile": "route-21-audio.wav",
+    "videoFile": "route-21-video.mp4",
+    "sfxFile": "car-voice-trimmed.wav",
+    "totalDistance": 95,
+    "captionStyle": 1
+  },
+  {
+    "id": 22,
+    "title": "Los Angeles to Palm Springs via Anza-Borrego and Joshua Tree",
+    "origin": "Los Angeles, CA",
+    "destination": "Palm Springs, CA",
+    "waypoints": [
+      "Anza-Borrego Desert State Park, CA",
+      "Joshua Tree National Park, CA"
+    ],
+    "script": "Did you know for under $50 in gas you can drive through one of the most viral natural events in California — and it is happening right now? The Southern California desert wildflower superbloom is peaking this week. Anza-Borrego Desert State Park — the largest state park in the continental US — is blanketed in gold and purple right now. Desert sunflowers, sand verbena, and ocotillo blooms spreading across the valley floor in a way that genuinely does not look real. Then up through the mountains into Joshua Tree, where the desert floor is blooming between the twisted trees in a window that only opens a few weeks a year. The drive finishes in Palm Springs where the San Jacinto Mountains turn pink at sunset behind a sea of wildflowers. Every year people say 'I'll do it next year.' The superbloom doesn't wait. It's open right now. Would you drop everything and drive it?",
+    "googleMapsUrl": "https://www.google.com/maps/dir/Los+Angeles,+CA/Anza-Borrego+Desert+State+Park,+CA/Joshua+Tree+National+Park,+CA/Palm+Springs,+CA",
+    "whyTrending": "Southern California desert wildflower superbloom peaking in March 2026 — optimal bloom conditions at Anza-Borrego and Joshua Tree after above-average winter rainfall. Superbloom content flooding Instagram, TikTok, and Pinterest with viral imagery. February-April window is peak season and closes fast.",
+    "scriptDurationSeconds": 45,
+    "audioFile": "route-22-audio.wav",
+    "videoFile": "route-22-video.mp4",
+    "sfxFile": "car-voice-trimmed.wav",
+    "totalDistance": 200,
+    "captionStyle": 1
+  },
+  {
+    "id": 23,
+    "title": "Denver to Vail via the Mountain Corridor",
+    "origin": "Denver, CO",
+    "destination": "Vail, CO",
+    "waypoints": [
+      "Breckenridge, CO",
+      "Copper Mountain, CO"
+    ],
+    "script": "Did you know for about $20 in gas you can drive one of the most spectacular mountain corridors in North America — and right now you get it with spring conditions that locals say are the best of the entire year? Vail just cracked Google's top 10 most-searched spring break destinations for 2026. You leave Denver, climb into the Rockies past Breckenridge and Copper Mountain, and arrive at Vail — 5,300 acres of ski terrain with spring snow that is softer, faster, and more forgiving than anything December brings. Long sunny days. Light that turns gold at 10,000 feet. Lift lines that don't exist compared to peak season. The Eisenhower Tunnel takes you through the Continental Divide — the highest vehicle tunnel in North America. And the drive back to Denver at sunset, mountains going red behind you, is the kind of thing you remember for years. Have you ever done Colorado in March?",
+    "googleMapsUrl": "https://www.google.com/maps/dir/Denver,+CO/Breckenridge,+CO/Copper+Mountain,+CO/Vail,+CO",
+    "whyTrending": "Vail ranked in Google's top 10 most-searched spring break destinations for 2026. Colorado ski resorts extended season through April with exceptional spring snowpack. I-70 mountain corridor trending on travel TikTok for spring skiing road trips — spring conditions (corn snow, warm sun, short lift lines) driving major interest from first-time ski road trippers.",
+    "scriptDurationSeconds": 46,
+    "audioFile": "route-23-audio.wav",
+    "videoFile": "route-23-video.mp4",
+    "sfxFile": "car-voice-trimmed.wav",
+    "totalDistance": 100,
+    "captionStyle": 1
+  },
+  {
+    "id": 24,
+    "title": "Richmond to Washington D.C.",
+    "origin": "Richmond, VA",
+    "destination": "Washington, D.C.",
+    "waypoints": [
+      "Fredericksburg, VA",
+      "Old Town Alexandria, VA"
+    ],
+    "script": "Did you know for about $12 in gas you can drive straight into the most photographed event in America — and the peak bloom is happening right now, today? Washington D.C.'s National Cherry Blossom Festival hits its absolute peak this week, and the Tidal Basin is completely surrounded by clouds of pink and white blossoms. Three thousand cherry trees, all exploding at once, framing the Jefferson Memorial like a painting. You leave Richmond, pass through Fredericksburg — a Civil War town frozen in time — then roll through Old Town Alexandria before crossing into D.C. The window for peak bloom is only four to seven days. No filter needed, no editing. The Tidal Basin at sunrise looks better than any screen wallpaper you've ever seen. The crowds are worth it. Would you drive two hours for this?",
+    "googleMapsUrl": "https://www.google.com/maps/dir/Richmond,+VA/Fredericksburg,+VA/Old+Town+Alexandria,+VA/Washington,+DC",
+    "whyTrending": "Washington D.C. National Cherry Blossom Festival 2026 peak bloom hitting March 22-26 — the Tidal Basin is at full flower right now. Most-searched domestic day trip in the mid-Atlantic this week per Google Trends. Cherry blossom content is flooding TikTok and Instagram with the shortest annual bloom window creating massive FOMO.",
+    "scriptDurationSeconds": 44,
+    "audioFile": "route-24-audio.wav",
+    "videoFile": "route-24-video.mp4",
+    "sfxFile": "car-voice-trimmed.wav",
+    "totalDistance": 110,
+    "captionStyle": 1
+  },
+  {
+    "id": 25,
+    "title": "Nashville to Memphis via the Music Highway",
+    "origin": "Nashville, TN",
+    "destination": "Memphis, TN",
+    "waypoints": [
+      "Columbia, TN",
+      "Jackson, TN"
+    ],
+    "script": "Did you know for about $25 in gas you can drive the single most music-dense 212 miles in America — and right now the whole country is watching this corridor because of March Madness? Nashville and Memphis are both hosting NCAA regional games this week and the energy in every bar, every honky-tonk, and every BBQ joint on this highway is completely electric. You leave Nashville's Broadway — neon signs, live bands at noon, the best people-watching in America — and cruise west on I-40. Jackson, Tennessee, birthplace of Carl Perkins. Then Memphis. Beale Street alive at midnight. Graceland, where Elvis made history. Sun Studio, where rock and roll was literally invented. This is American music, wall to wall, for three and a half hours. And right now the whole country is already tuned in. Have you made the drive?",
+    "googleMapsUrl": "https://www.google.com/maps/dir/Nashville,+TN/Columbia,+TN/Jackson,+TN/Memphis,+TN",
+    "whyTrending": "March Madness 2026 — Nashville and Memphis both hosting NCAA Tournament regional rounds this week, drawing massive travel crowds to both cities simultaneously. Nashville continues its record-breaking run as #1 most-visited US city and Memphis Beale Street is experiencing a major spring travel resurgence. Music Highway corridor trending across sports travel and road trip communities.",
+    "scriptDurationSeconds": 45,
+    "audioFile": "route-25-audio.wav",
+    "videoFile": "route-25-video.mp4",
+    "sfxFile": "car-voice-trimmed.wav",
+    "totalDistance": 212,
+    "captionStyle": 1
+  },
+  {
+    "id": 26,
+    "title": "Savannah to Charleston",
+    "origin": "Savannah, GA",
+    "destination": "Charleston, SC",
+    "waypoints": [
+      "Hilton Head Island, SC",
+      "Beaufort, SC"
+    ],
+    "script": "Did you know for about $15 in gas you can drive through two of the most stunning spring destinations in all of America — and the azaleas are in full bloom right now? Savannah's squares are draped in Spanish moss and exploding in pink and purple right now. Then you head up through the South Carolina Lowcountry — marsh grass golden in every direction, bridges arching over tidal creeks, the air thick with salt and pine. Hilton Head's wide beaches. Beaufort's antebellum homes and live oaks so old they remember the Civil War. Then Charleston — pastel Rainbow Row, cobblestone streets, rooftop bars with harbor views, and the best food scene in the American South. Both cities were just named to Condé Nast's top 10 spring destinations for 2026. You can do this drive in three hours straight or take two days and eat your way through it. What do you choose?",
+    "googleMapsUrl": "https://www.google.com/maps/dir/Savannah,+GA/Hilton+Head+Island,+SC/Beaufort,+SC/Charleston,+SC",
+    "whyTrending": "Savannah and Charleston both named to Condé Nast Traveler's top 10 US spring destinations for 2026. Late March is peak azalea bloom season across the Georgia-South Carolina Lowcountry. Both cities are trending heavily on TikTok and Pinterest for spring aesthetics — Savannah's Spanish moss squares and Charleston's Rainbow Row are among the most-shared spring travel images in America right now.",
+    "scriptDurationSeconds": 45,
+    "audioFile": "route-26-audio.wav",
+    "videoFile": "route-26-video.mp4",
+    "sfxFile": "car-voice-trimmed.wav",
+    "totalDistance": 110,
+    "captionStyle": 1
+  },
+  {
+    "id": 27,
+    "title": "San Antonio to Big Bend National Park",
+    "origin": "San Antonio, TX",
+    "destination": "Big Bend National Park, TX",
+    "waypoints": [
+      "Fredericksburg, TX",
+      "Marfa, TX",
+      "Terlingua, TX"
+    ],
+    "script": "Did you know for about $90 in gas you could drive from San Antonio all the way to Big Bend National Park — through some of the most dramatic desert scenery in all of Texas? Spring is the secret window for this drive: wildflowers are blooming in the Chisos Mountains, the Rio Grande is running full, and the temperatures are perfect — warm days, cool nights, no brutal summer heat. You roll through Fredericksburg's Texas Hill Country wine scene, then out to Marfa where world-famous art installations rise out of the desert like a fever dream. Through Terlingua, a ghost town that never quite died. And then Big Bend opens up and it's just — sky. Canyon. River. Silence. This place feels like the edge of the earth and that's exactly why it's blowing up right now. Would you do this solo or bring a crew?",
+    "googleMapsUrl": "https://www.google.com/maps/dir/San+Antonio,+TX/Fredericksburg,+TX/Marfa,+TX/Terlingua,+TX/Big+Bend+National+Park,+TX",
+    "whyTrending": "Big Bend National Park spring 2026 wildflower season trending heavily on TikTok and Instagram. Marfa, TX continues its rise as a bucket-list cultural destination. Spring is peak season for Big Bend — warm temps, Rio Grande at full flow, desert in bloom — and travel creators are flooding the route with content right now.",
+    "scriptDurationSeconds": 45,
+    "audioFile": "route-27-audio.wav",
+    "videoFile": "route-27-video.mp4",
+    "sfxFile": "car-voice-trimmed.wav",
+    "totalDistance": 380,
+    "captionStyle": 1
+  },
+  {
+    "id": 28,
+    "title": "Washington D.C. to Shenandoah Valley",
+    "origin": "Washington, D.C.",
+    "destination": "Harpers Ferry, WV",
+    "waypoints": [
+      "National Mall, Washington D.C.",
+      "Mount Vernon, VA"
+    ],
+    "script": "Did you know for about $40 in gas you could drive from Washington D.C. into the Shenandoah Valley — and right now the cherry blossoms are absolutely peak? The National Cherry Blossom Festival runs through April and the Tidal Basin is surrounded by nearly 3,000 trees in full pink bloom right now — one of the most photographed natural moments in North America. Then you drive south to Mount Vernon, where George Washington looked out over the Potomac, and then west into Harpers Ferry where the Blue Ridge and Allegheny mountains collide above a historic river town. America's most beautiful spring drive, out your front door. You have a narrow window before the petals drop — are you going?",
+    "googleMapsUrl": "https://www.google.com/maps/dir/Washington,+DC/Mount+Vernon,+VA/Harpers+Ferry,+WV",
+    "whyTrending": "National Cherry Blossom Festival 2026 running March 20 through April 12 — peak bloom happening right now in late March. Nearly 3,000 cherry trees around the Tidal Basin creating one of the most-shared natural events in America on Instagram and TikTok. DC cherry blossom content is trending at the top of travel feeds nationwide this week.",
+    "scriptDurationSeconds": 40,
+    "audioFile": "route-28-audio.wav",
+    "videoFile": "route-28-video.mp4",
+    "sfxFile": "car-voice-trimmed.wav",
+    "totalDistance": 130,
+    "captionStyle": 1
+  },
+  {
+    "id": 29,
+    "title": "Los Angeles to San Diego via the Superbloom",
+    "origin": "Los Angeles, CA",
+    "destination": "San Diego, CA",
+    "waypoints": [
+      "Carlsbad, CA",
+      "Anza-Borrego Desert State Park, CA"
+    ],
+    "script": "Did you know for about $55 in gas you could drive from L.A. to San Diego and pass through what experts are calling the best California wildflower display in a decade? First stop: Carlsbad — where 80 million ranunculus flowers are blooming right now across 50 acres of hillside. The photos don't do it justice, it looks unreal. Then you cut inland to Anza-Borrego Desert State Park, where a rare superbloom has desert lilies and sand verbena painting the desert floor in color you've never seen. Then drop back to the coast for San Diego — La Jolla cliffs, Sunset Cliffs at golden hour, the best fish tacos of your life. One tank of gas. Three completely different worlds. This is a once-in-a-decade flower moment — when are you going?",
+    "googleMapsUrl": "https://www.google.com/maps/dir/Los+Angeles,+CA/Carlsbad,+CA/Anza-Borrego+Desert+State+Park,+CA/San+Diego,+CA",
+    "whyTrending": "California Superbloom 2026 being called the best wildflower display in 10 years. The Flower Fields at Carlsbad Ranch peak bloom happening now through early May. Anza-Borrego Desert superbloom trending massively on Instagram — #CaliforniaWildflowers dominating travel feeds nationwide. This rare event is driving a surge of SoCal road trip searches.",
+    "scriptDurationSeconds": 45,
+    "audioFile": "route-29-audio.wav",
+    "videoFile": "route-29-video.mp4",
+    "sfxFile": "car-voice-trimmed.wav",
+    "totalDistance": 250,
+    "captionStyle": 1
+  },
+  {
+    "id": 30,
+    "title": "New Orleans to Key West",
+    "origin": "New Orleans, LA",
+    "destination": "Key West, FL",
+    "waypoints": [
+      "Biloxi, MS",
+      "Pensacola, FL",
+      "Tampa, FL"
+    ],
+    "script": "Did you know for about $160 in gas you could drive all the way from the jazz-soaked streets of New Orleans down to the turquoise waters of Key West? This is the ultimate Gulf Coast escape and it is having a serious moment right now. You leave the French Quarter — beignets in hand, the sound of a trumpet still in your ears — and cruise east along the Gulf. Hidden gems the whole way: Biloxi's white-sand beaches, Pensacola's crystal-clear emerald water, Tampa's waterfront. Then you hit the Florida Keys and the world slows way down. Seven Mile Bridge with ocean on both sides. Key West at sunset. The southernmost point in the continental United States. No flight needed. Just one open road and the Gulf of Mexico. Have you ever driven this stretch?",
+    "googleMapsUrl": "https://www.google.com/maps/dir/New+Orleans,+LA/Biloxi,+MS/Pensacola,+FL/Tampa,+FL/Key+West,+FL",
+    "whyTrending": "Gulf Coast spring break 2026 driving massive road trip interest across Reddit and TikTok. Pensacola Beach ranked one of America's top spring break destinations. Key West and the Florida Keys trending as a no-fly alternative to Caribbean travel. Travel bloggers are heavily promoting this route as an underrated Gulf Coast epic for spring 2026.",
+    "scriptDurationSeconds": 45,
+    "audioFile": "route-30-audio.wav",
+    "videoFile": "route-30-video.mp4",
+    "sfxFile": "car-voice-trimmed.wav",
+    "totalDistance": 890,
+    "captionStyle": 1
+  },
+  {
+    "id": 31,
+    "title": "Seattle to Olympic Peninsula Loop",
+    "origin": "Seattle, WA",
+    "destination": "Seattle, WA",
+    "waypoints": [
+      "Port Townsend, WA",
+      "Sol Duc Hot Springs, WA",
+      "Hoh Rain Forest, WA"
+    ],
+    "script": "Did you know for about $70 in gas you could do a full loop from Seattle around the Olympic Peninsula — and spring is the only time it looks like this? Right now hundreds of snow-melt waterfalls are cascading down valley walls that will be completely dry by summer. You take the ferry to Port Townsend, a Victorian seaport straight out of another era, then push west into Olympic National Park. Soak in Sol Duc Hot Springs — natural mineral pools tucked deep in old-growth forest. Then the Hoh Rain Forest: 12 feet of rainfall a year, moss on every surface, ancient trees taller than anything you've ever stood next to, UNESCO World Heritage status. This is the Pacific Northwest doing what no other place on earth can do. And right now those waterfalls are going. What are you waiting for?",
+    "googleMapsUrl": "https://www.google.com/maps/dir/Seattle,+WA/Port+Townsend,+WA/Sol+Duc+Hot+Springs,+WA/Hoh+Rain+Forest,+WA/Seattle,+WA",
+    "whyTrending": "Olympic Peninsula spring waterfall season trending on TikTok and Pacific Northwest travel communities in March 2026. Snow-melt waterfalls only visible in spring — dozens of cascades that disappear by summer. 'Forest escape' and 'quiet retreat' travel content is dominating travel feeds and the Olympic Peninsula perfectly captures both trends. Sol Duc Hot Springs and Hoh Rain Forest among the most-shared PNW destinations right now.",
+    "scriptDurationSeconds": 45,
+    "audioFile": "route-31-audio.wav",
+    "videoFile": "route-31-video.mp4",
+    "sfxFile": "car-voice-trimmed.wav",
+    "totalDistance": 370,
+    "captionStyle": 1
+  },
+  {
+    "id": 32,
+    "title": "Roanoke to Cherokee — Blue Ridge Parkway Wildflower Drive",
+    "origin": "Roanoke, VA",
+    "destination": "Cherokee, NC",
+    "waypoints": [
+      "Humpback Rocks, VA",
+      "Asheville, NC",
+      "Great Smoky Mountains National Park, NC"
+    ],
+    "script": "Did you know for about $50 in gas you could drive from Roanoke all the way to the entrance of Great Smoky Mountains National Park — on a road with zero stoplights, zero trucks, and wildflowers burning on both sides right now? The Blue Ridge Parkway runs 469 miles through the Appalachians, and the stretch you want is alive right now — flame azaleas lighting up the ridgeline, trillium and bloodroot along both shoulders. Stop at Humpback Rocks and you get one of the best valley views in Virginia. Then south to Asheville, North Carolina — one of the fastest-growing food cities in the South — before Cherokee and the gates of the Smokies. The flowers last about six weeks. This is that window. Have you driven this one yet?",
+    "googleMapsUrl": "https://www.google.com/maps/dir/Roanoke%2C+VA/Humpback+Rocks%2C+VA/Asheville%2C+NC/Cherokee%2C+NC",
+    "whyTrending": "Blue Ridge Parkway wildflower season peaks April–May, creating a hard annual urgency window. Asheville, NC is one of the most-searched travel destinations in the Southeast in 2026. Flame azalea bloom along the parkway is among the most-shared spring nature content on TikTok travel feeds. Great Smoky Mountains is the most-visited national park in the US, anchoring the destination with a built-in audience.",
+    "scriptDurationSeconds": 45,
+    "audioFile": "route-32-audio.wav",
+    "videoFile": "route-32-video.mp4",
+    "sfxFile": "car-voice-trimmed.wav",
+    "totalDistance": 469,
+    "captionStyle": 1
+  },
+  {
+    "id": 33,
+    "title": "Savannah to Cumberland Island — The Hidden Georgia Coast",
+    "origin": "Savannah, GA",
+    "destination": "Savannah, GA",
+    "waypoints": [
+      "St. Marys, GA",
+      "Cumberland Island National Seashore, GA",
+      "Jekyll Island, GA"
+    ],
+    "script": "Did you know for about $20 in gas you could loop from Savannah out to Cumberland Island and back — a barrier island with wild horses on the beach, Carnegie estate ruins, and only 300 visitors allowed per day? You drive south to St. Marys, Georgia, catch a thirty-dollar government ferry, and step off onto the largest undeveloped barrier island on the East Coast. No paved roads. No restaurants. No Wi-Fi. Horses running across the sand in front of you. Dungeness Mansion sitting half-swallowed by live oaks draped in Spanish moss. Loop back through Jekyll Island before Savannah for the night. The gas barely costs anything — it is the thirty-dollar ferry that gets people. Would you do this one?",
+    "googleMapsUrl": "https://www.google.com/maps/dir/Savannah%2C+GA/St.+Marys%2C+GA/Cumberland+Island+National+Seashore%2C+GA/Jekyll+Island%2C+GA/Savannah%2C+GA",
+    "whyTrending": "Cumberland Island is gaining rapid traction on TikTok in 2026 as travelers seek alternatives to overcrowded Florida spring break destinations. Wild horse content consistently goes viral on nature and travel feeds. The 300-visitor daily cap creates genuine scarcity — a proven engagement trigger. Georgia barrier islands are trending as a quieter counterpoint to Outer Banks and Florida coast saturation.",
+    "scriptDurationSeconds": 44,
+    "audioFile": "route-33-audio.wav",
+    "videoFile": "route-33-video.mp4",
+    "sfxFile": "car-voice-trimmed.wav",
+    "totalDistance": 200,
+    "captionStyle": 1
+  },
+  {
+    "id": 34,
+    "title": "West Glacier to St. Mary — Going-to-the-Sun Road",
+    "origin": "Kalispell, MT",
+    "destination": "St. Mary, MT",
+    "waypoints": [
+      "West Glacier, MT",
+      "Logan Pass, MT",
+      "Weeping Wall, MT"
+    ],
+    "script": "Did you know for about $50 in gas you could drive one of the most spectacular roads in North America — and it only opens for about ten weeks a year? Going-to-the-Sun Road in Glacier National Park crosses the Continental Divide at 6,646 feet, and right now is the exact week the gates open. You leave Kalispell, hit Lake McDonald on the west side — water so clear you can see painted rocks sitting on the bottom in thirty feet — then the road climbs switchbacks carved straight into a cliff face. Snow walls tower forty feet above your car in late June. Pull over at the Weeping Wall, a waterfall that runs directly across the road. Ten weeks. Then it closes until next May. Have you timed this one right yet?",
+    "googleMapsUrl": "https://www.google.com/maps/dir/Kalispell%2C+MT/West+Glacier%2C+MT/Logan+Pass%2C+MT/Weeping+Wall%2C+MT/St.+Mary%2C+MT",
+    "whyTrending": "Going-to-the-Sun Road opening is one of the most anticipated annual events in US national park travel, with NPS announcing the 2026 opening window generating significant media coverage. Glacier National Park is perennially among the most-searched bucket-list parks. Snow wall photography along the road goes massively viral every June. The park entrance reservation system creates a scarcity urgency that drives immediate saves and shares.",
+    "scriptDurationSeconds": 46,
+    "audioFile": "route-34-audio.wav",
+    "videoFile": "route-34-video.mp4",
+    "sfxFile": "car-voice-trimmed.wav",
+    "totalDistance": 100,
+    "captionStyle": 1
+  },
+  {
+    "id": 35,
+    "title": "Washington D.C. to Asheville",
+    "origin": "Washington, D.C.",
+    "destination": "Asheville, NC",
+    "waypoints": [
+      "Shenandoah National Park, VA",
+      "Charlottesville, VA",
+      "Linn Cove Viaduct, NC"
+    ],
+    "script": "Did you know that for 60 dollars in gas you can drive from Washington D.C. to Asheville through one of the most scenic roads in America — and it only looks like this for six weeks a year? You leave D.C. just as the cherry blossoms peak along the Tidal Basin, then merge onto Skyline Drive through Shenandoah where the entire Appalachian ridge is turning green in real time. Drop into Charlottesville for a vineyard lunch, then pick up the Blue Ridge Parkway — 469 miles of curves with zero stoplights and zero commercial traffic. At Milepost 304 you hit the Linn Cove Viaduct, an engineering marvel bolted into the side of Grandfather Mountain at 4,100 feet. The road ends in Asheville, where 30 craft breweries sit inside a city of 95,000 people. Spring bloom plus mountain air plus no crowds. Would you drive it this week?",
+    "googleMapsUrl": "https://www.google.com/maps/dir/Washington%2C+D.C./Shenandoah+National+Park%2C+VA/Charlottesville%2C+VA/Linn+Cove+Viaduct%2C+NC/Asheville%2C+NC",
+    "whyTrending": "D.C. cherry blossoms are one of the most viral annual events on social media, peaking late March to mid-April 2026. The Blue Ridge Parkway was named a top spring road trip by National Traveller and AAA for 2026. Asheville continues trending as a top foodie and craft brewery destination on TikTok. Spring wildflowers at Mabry Mill and along Skyline Drive create peak visual content in this exact window.",
+    "scriptDurationSeconds": 48,
+    "audioFile": "route-35-audio.wav",
+    "videoFile": "route-35-video.mp4",
+    "sfxFile": "car-voice-trimmed.wav",
+    "totalDistance": 530,
+    "captionStyle": 1
+  },
+  {
+    "id": 36,
+    "title": "Los Angeles to Sedona",
+    "origin": "Los Angeles, CA",
+    "destination": "Sedona, AZ",
+    "waypoints": [
+      "Joshua Tree National Park, CA",
+      "Amboy Crater, CA",
+      "Flagstaff, AZ"
+    ],
+    "script": "Did you know that for 55 dollars in gas you can drive from Los Angeles to Sedona through a once-in-a-decade desert superbloom? Every ten years or so, enough rain falls to trigger it, and 2026 is that year. You leave Los Angeles, drive two hours east into a desert that is currently carpeted in wildflowers from the Mojave all the way to the Arizona border. Joshua Tree at sunrise with cactus blooms is a completely different park than the one you have seen on Instagram. Push through Amboy Crater — a volcanic cone sitting in absolute silence off Route 66 — then cross into Arizona and climb 5,000 feet into Flagstaff ponderosa pines before dropping into Sedona. Red rock formations, 300 days of sunshine, and one of the most hashtagged zip codes in America. This superbloom window closes in three weeks. Are you going or not?",
+    "googleMapsUrl": "https://www.google.com/maps/dir/Los+Angeles%2C+CA/Joshua+Tree+National+Park%2C+CA/Amboy+Crater%2C+CA/Flagstaff%2C+AZ/Sedona%2C+AZ",
+    "whyTrending": "Weather experts are forecasting the best California superbloom in a decade for spring 2026, with record winter rainfall setting the stage. Joshua Tree wildflower blooms are peaking March through mid-April at lower elevations. Sedona remains one of the most hashtagged travel destinations on TikTok. The superbloom has a hard seasonal window creating natural urgency for saves and shares.",
+    "scriptDurationSeconds": 50,
+    "audioFile": "route-36-audio.wav",
+    "videoFile": "route-36-video.mp4",
+    "sfxFile": "car-voice-trimmed.wav",
+    "totalDistance": 470,
+    "captionStyle": 1
+  },
+  {
+    "id": 37,
+    "title": "Nashville to New Orleans",
+    "origin": "Nashville, TN",
+    "destination": "New Orleans, LA",
+    "waypoints": [
+      "Tupelo, MS",
+      "Natchez, MS",
+      "Baton Rouge, LA"
+    ],
+    "script": "Did you know for about $60 in gas you could drive from Nashville to New Orleans on a 444-mile parkway with no stoplights, no billboards, and no speed traps — and it costs zero dollars in tolls? The Natchez Trace Parkway is a National Park Service road that follows a path originally walked by Choctaw and Chickasaw nations, and spring is the only time the entire corridor blooms at once. You leave Nashville, curve through Tennessee horse country, stop in Tupelo where Elvis was born in a two-room shotgun house, then cross into Mississippi plantation country. Natchez sits on a bluff 200 feet above the river — the oldest settlement on the Mississippi. From there it is a straight shot into New Orleans just as French Quarter Fest kicks off. Live brass, beignets at 2 AM, and a city that never once asks you to quiet down. Have you done this one yet?",
+    "googleMapsUrl": "https://www.google.com/maps/dir/Nashville%2C+TN/Tupelo%2C+MS/Natchez%2C+MS/Baton+Rouge%2C+LA/New+Orleans%2C+LA",
+    "whyTrending": "Nashville and New Orleans are consistently the two most-posted music cities on TikTok travel content. The Natchez Trace Parkway is free with no tolls, trending as a budget-friendly alternative to paid interstate highways in 2026. French Quarter Fest in April 2026 draws massive social media coverage. Spring is the peak season for Natchez Trace wildflowers and comfortable driving temperatures according to NPS data.",
+    "scriptDurationSeconds": 52,
+    "audioFile": "route-37-audio.wav",
+    "videoFile": "route-37-video.mp4",
+    "sfxFile": "car-voice-trimmed.wav",
+    "totalDistance": 444,
+    "captionStyle": 1
+  },
+  {
+    "id": 38,
+    "title": "Chicago to San Francisco",
+    "origin": "Chicago, IL",
+    "destination": "San Francisco, CA",
+    "waypoints": [
+      "Denver, CO",
+      "Salt Lake City, UT",
+      "Reno, NV"
+    ],
+    "script": "Did you know for about 150 dollars you can take a train from Chicago all the way to San Francisco? This is the California Zephyr. Two thousand four hundred miles across seven states and it has been blowing up on TikTok for good reason. You leave the flatlands of Illinois at dawn. By afternoon the Great Plains stretch to the horizon in every direction. Then you wake up and the Rocky Mountains are right outside your window. The train threads through Glenwood Canyon, thousand-foot walls of red rock so close you could almost touch them. Then Gore Canyon, the most remote point on any Amtrak route. No roads. No towns. Just you, the river, and the mountains. You cross the Continental Divide at over nine thousand feet. Then the desert. Utah red rock country burns orange in the sunset. On day three the Sierra Nevada. The train climbs through Donner Pass past alpine lakes frozen in time before dropping down into California. Fifty-one hours. Seven states. One of the most beautiful train journeys on Earth. Have you done this ride? Drop it in the comments.",
+    "googleMapsUrl": "https://www.google.com/maps/dir/Chicago,+IL/Denver,+CO/Salt+Lake+City,+UT/Reno,+NV/San+Francisco,+CA",
+    "whyTrending": "California Zephyr going viral on TikTok as the most scenic train ride in North America in 2026",
+    "scriptDurationSeconds": 60,
+    "audioFile": "route-38-audio.mp3",
+    "videoFile": "route-38-video.mp4",
+    "sfxFile": "train-voice.mp3",
+    "totalDistance": 2400,
+    "captionStyle": 1
+  },
+  {
+    "id": 39,
+    "title": "New York City to Montreal",
+    "origin": "New York City, NY",
+    "destination": "Montreal, QC, Canada",
+    "waypoints": [
+      "Saratoga Springs, NY",
+      "Lake Champlain, NY"
+    ],
+    "script": "Did you know for about 75 dollars you can take a train from New York City all the way to Montreal Canada? The Adirondack. One train. Two countries. And some of the most stunning scenery on the East Coast. You pull out of Penn Station and within minutes the Hudson River appears. For the next two hours you are gliding right along the water, mansions on the cliffs, sailboats below, the river so wide it looks like the sea. Then the wilderness begins. The Adirondacks swallow you whole. Deep forests. Mirror-still lakes. Mountains that go blue in the distance. Lake Champlain stretches out beside you for miles, open water, islands, the Green Mountains of Vermont across the way. Then the border. You do not leave your seat. Customs comes to you. And suddenly you are in Canada. The skyline of Montreal rises ahead and you step off the train into a completely different country, a different language, a different world. No airport. No security line. Just the journey. Save this one before you scroll past.",
+    "googleMapsUrl": "https://www.google.com/maps/dir/New+York,+NY/Saratoga+Springs,+NY/Montreal,+QC,+Canada",
+    "whyTrending": "Amtrak Adirondack trending as the top flight-free international trip from NYC in spring 2026",
+    "scriptDurationSeconds": 55,
+    "audioFile": "route-39-audio.mp3",
+    "videoFile": "route-39-video.mp4",
+    "sfxFile": "train-voice.mp3",
+    "totalDistance": 380,
+    "captionStyle": 1
+  },
+  {
+    "id": 40,
+    "title": "Chicago to New Orleans",
+    "origin": "Chicago, IL",
+    "destination": "New Orleans, LA",
+    "waypoints": [
+      "Memphis, TN",
+      "Jackson, MS"
+    ],
+    "script": "Did you know for about 60 dollars you can take a train from Chicago all the way to New Orleans? This is the City of New Orleans. Nine hundred miles straight down the spine of this country. From the deep dish pizza capital to the gumbo capital. You leave Union Station in the afternoon. The Chicago skyline fades behind you replaced by fields, corn, soy, and sky that goes on forever. Small towns flash by. Water towers with names you have never heard. This is the America most people fly right over. By evening you are in Memphis. The birthplace of rock and roll, blues, and barbecue. Then the Delta. Mississippi stretches out flat and endless. Cotton fields. The ghosts of a hundred years of American music lived and breathed right here. You sleep somewhere in Mississippi and wake up in another world. Louisiana. Spanish moss hanging from cypress trees. Swamp water catching the morning light. And then New Orleans. The music hits you before you even leave the station. Nineteen hours. Three states. One unforgettable story. Have you done this ride? Drop it in the comments.",
+    "googleMapsUrl": "https://www.google.com/maps/dir/Chicago,+IL/Memphis,+TN/Jackson,+MS/New+Orleans,+LA",
+    "whyTrending": "City of New Orleans train route trending on TikTok as the ultimate cultural journey through the American South in 2026",
+    "scriptDurationSeconds": 55,
+    "audioFile": "route-40-audio.mp3",
+    "videoFile": "route-40-video.mp4",
+    "sfxFile": "train-voice.mp3",
+    "totalDistance": 900,
+    "captionStyle": 1
+  },
+  {
+    "id": 41,
+    "title": "San Martín de los Andes to Bariloche",
+    "origin": "San Martín de los Andes, Argentina",
+    "destination": "San Carlos de Bariloche, Argentina",
+    "waypoints": [
+      "Lago Lácar, Argentina",
+      "Lago Machónico, Argentina",
+      "Lago Hermoso, Argentina",
+      "Lago Villarino, Argentina",
+      "Lago Falkner, Argentina",
+      "Lago Escondido, Argentina",
+      "Lago Espejo, Argentina"
+    ],
+    "script": "Did you know for about fifteen dollars in gas you could drive past seven glacial lakes in Patagonia? The Seven Lakes Route on Ruta 40 runs 114 miles from San Martín de los Andes to Bariloche. You start at Lago Lácar, deep blue and framed by mountains. Then Lago Machónico and Lago Hermoso, a hidden beach with crystal-clear water. Lago Villarino and Lago Falkner sit side by side, one emerald, one sapphire. Lago Escondido is so tucked away you almost miss it. Then Lago Espejo, the Mirror Lake, reflects the Andes so perfectly you cannot tell which way is up. Seven lakes. Seven different colors. One road through the heart of Patagonia. Most tourists fly right over it. Would you do this drive?",
+    "googleMapsUrl": "https://www.google.com/maps/dir/San+Martin+de+los+Andes,+Argentina/Lago+L%C3%A1car,+Argentina/Lago+Mach%C3%B3nico,+Argentina/Lago+Hermoso,+Argentina/Lago+Villarino,+Argentina/Lago+Falkner,+Argentina/Lago+Escondido,+Argentina/Lago+Espejo,+Argentina/San+Carlos+de+Bariloche,+Argentina",
+    "whyTrending": "The Seven Lakes Route (Ruta de los Siete Lagos) on Ruta 40 is one of the most iconic scenic drives in South America. Patagonia road trips are trending heavily on TikTok in 2026, with the compact 114-mile distance making it surprisingly accessible. The route covers all seven named lakes: Lácar, Machónico, Hermoso, Villarino, Falkner, Escondido, and Espejo.",
+    "scriptDurationSeconds": 48,
+    "audioFile": "route-41-audio.wav",
+    "videoFile": "route-41-video.mp4",
+    "sfxFile": "car-voice-trimmed.wav",
+    "totalDistance": 114,
+    "captionStyle": 1
+  },
+  {
+    "id": 42,
+    "title": "La Paz to Salar de Uyuni",
+    "origin": "La Paz, Bolivia",
+    "destination": "Uyuni, Bolivia",
+    "waypoints": [
+      "Oruro, Bolivia",
+      "Challapata, Bolivia",
+      "Huari, Bolivia"
+    ],
+    "script": "Did you know for about fifty dollars in gas you could drive from La Paz to the largest mirror on Earth? The Salar de Uyuni in Bolivia is over four thousand square miles of pure white salt flat and right now in April a thin layer of rainwater turns the entire thing into a perfect reflection of the sky. You cannot tell where the ground ends and the heavens begin. You leave La Paz at twelve thousand feet above sea level and climb higher. The Altiplano stretches out around you, vast and empty, llamas grazing on golden grass with snow-capped volcanoes behind them. You pass through Oruro, a mining city carved into the mountains. Then the road drops into Challapata and the landscape turns surreal. Dust, wind, and silence. Three hundred and thirty-five miles of the most otherworldly terrain you will ever see. And then you arrive. The salt flat glows white in every direction, endless, blinding, impossible. In 2026 Bolivia dropped its visa fee for Americans so this trip just got a hundred and sixty dollars cheaper before you even start the car. This is the drive social media cannot stop talking about. Would you do it?",
+    "googleMapsUrl": "https://www.google.com/maps/dir/La+Paz,+Bolivia/Oruro,+Bolivia/Challapata,+Bolivia/Uyuni,+Bolivia",
+    "whyTrending": "Bolivia eliminated its $160 visa requirement for Americans in 2026, making it instantly more accessible. April is the tail end of rainy season when the famous mirror effect transforms the salt flat into a sky reflection — the most viral version of Uyuni content on TikTok. The Lagunas Route through the Bolivian altiplano is trending as one of the most visually striking road trips in South America.",
+    "scriptDurationSeconds": 55,
+    "audioFile": "route-42-audio.wav",
+    "videoFile": "route-42-video.mp4",
+    "sfxFile": "car-voice-trimmed.wav",
+    "totalDistance": 335,
+    "captionStyle": 3
+  },
+  {
+    "id": 43,
+    "title": "Rio de Janeiro to Paraty",
+    "origin": "Rio de Janeiro, Brazil",
+    "destination": "Paraty, Brazil",
+    "waypoints": [
+      "Mangaratiba, Brazil",
+      "Angra dos Reis, Brazil"
+    ],
+    "script": "Did you know for about fifteen dollars of gas you could travel from Rio de Janeiro to one of the most beautiful colonial towns in the Americas? The Costa Verde highway hugs the Brazilian coast for a hundred and fifty miles. Rainforest drops straight into turquoise water. You pass Angra dos Reis, three hundred and sixty-five islands in a bay so green it does not look real. End in Paraty, cobblestone streets built in the seventeen hundreds where the tide floods the old town twice a day. Brazil was just named 2026 Destination of the Year. Save this one.",
+    "googleMapsUrl": "https://www.google.com/maps/dir/Rio+de+Janeiro,+Brazil/Mangaratiba,+Brazil/Angra+dos+Reis,+Brazil/Paraty,+Brazil",
+    "whyTrending": "Brazil was named 2026 Destination of the Year by Travel + Leisure. Rio de Janeiro won best city break and best beach destination at the World Travel Awards. The Costa Verde (Green Coast) highway is trending on TikTok as one of the most underrated coastal drives in the world, with Paraty's colonial charm and Ilha Grande's car-free jungle island generating massive engagement.",
+    "scriptDurationSeconds": 38,
+    "audioFile": "route-43-audio.wav",
+    "videoFile": "route-43-video.mp4",
+    "sfxFile": "car-voice-trimmed.wav",
+    "totalDistance": 150,
+    "captionStyle": 3
+  },
+  {
+    "id": 44,
+    "title": "San Antonio to Fredericksburg — Texas Bluebonnet Trail",
+    "origin": "San Antonio, TX",
+    "destination": "Fredericksburg, TX",
+    "waypoints": [
+      "Willow City Loop, TX",
+      "Enchanted Rock State Natural Area, TX"
+    ],
+    "script": "Did you know for about ten dollars of gas you could travel through a sea of bluebonnets that only blooms four weeks a year? San Antonio to Fredericksburg is seventy miles of Texas Hill Country carpeted in electric blue. Stop at Willow City Loop, the backroad locals swear is the best bluebonnet drive in the state. Detour to Enchanted Rock, a pink granite dome four hundred feet out of the prairie. End in Fredericksburg for German beer, Texas wine, and peach cobbler. The bloom is peaking. Next week it fades. Would you make the drive?",
+    "googleMapsUrl": "https://www.google.com/maps/dir/San+Antonio%2C+TX/Willow+City+Loop%2C+TX/Enchanted+Rock+State+Natural+Area%2C+TX/Fredericksburg%2C+TX",
+    "whyTrending": "Texas bluebonnet season is peaking in April 2026 with 1.8M TikTok posts under #bluebonnets2026. The Ennis Bluebonnet Trails Festival runs April 17-19. Texas Parks & Wildlife issued a March 2026 wildflower advisory calling the Hill Country bloom one of the best in years. Fredericksburg wine country adds a food-and-drink angle that broadens appeal beyond nature content.",
+    "scriptDurationSeconds": 37,
+    "audioFile": "route-44-audio.wav",
+    "videoFile": "route-44-video.mp4",
+    "sfxFile": "car-voice-trimmed.wav",
+    "totalDistance": 70,
+    "captionStyle": 3
+  },
+  {
+    "id": 45,
+    "title": "Anchorage to Seward — Alaska's Kenai Fjords Gateway",
+    "origin": "Anchorage, AK",
+    "destination": "Seward, AK",
+    "waypoints": [
+      "Turnagain Arm, AK",
+      "Exit Glacier, Kenai Fjords National Park, AK"
+    ],
+    "script": "Did you know for about twenty dollars of gas you could travel a road with twenty-two hours of daylight that almost nobody outside Alaska talks about? The Seward Highway runs a hundred and twenty-five miles from Anchorage through the Chugach Mountains. You hug Turnagain Arm where beluga whales surface right next to the road. You pass glaciers visible from your car window. End in Seward at the edge of Kenai Fjords National Park. Exit Glacier is a fifteen-minute walk from the parking lot, no permits, no lottery. Stand on a glacier before lunch, watch humpbacks breach by dinner.",
+    "googleMapsUrl": "https://www.google.com/maps/dir/Anchorage%2C+AK/Turnagain+Arm%2C+AK/Exit+Glacier%2C+Kenai+Fjords+National+Park%2C+AK/Seward%2C+AK",
+    "whyTrending": "Alaska summer tourism is surging in 2026 with cruise ship bookings at record highs. The Seward Highway was designated an All-American Road by the Federal Highway Administration. Kenai Fjords is trending on TikTok as an alternative to overcrowded national parks like Yellowstone and Zion. The midnight sun angle creates inherently shareable content that drives saves and shares.",
+    "scriptDurationSeconds": 38,
+    "audioFile": "route-45-audio.wav",
+    "videoFile": "route-45-video.mp4",
+    "sfxFile": "car-voice-trimmed.wav",
+    "totalDistance": 125,
+    "captionStyle": 3
+  },
+  {
+    "id": 46,
+    "title": "Montreal to Baie-Saint-Paul via Quebec City",
+    "origin": "Montreal, QC, Canada",
+    "destination": "Baie-Saint-Paul, QC, Canada",
+    "waypoints": [
+      "Quebec City, QC, Canada",
+      "Montmorency Falls, QC, Canada"
+    ],
+    "script": "People fly to Europe for old-world charm and completely miss what is three hours east of Montreal. The drive from Montreal to Baie-Saint-Paul through Quebec City is the route Canadians gatekeep from everyone else. You pass through Quebec City's four-hundred-year-old walled streets, the only fortified city north of Mexico, then push northeast into Charlevoix where the St. Lawrence River widens into something that looks more like an ocean. Stop at Montmorency Falls, a waterfall ninety-nine feet taller than Niagara that somehow nobody talks about. End in Baie-Saint-Paul, a village of seven thousand people with more art galleries per capita than anywhere in Canada. The cliffs, the river, the farms, it all feels like Normandy without the passport. Spring food season is on fire right now with sugar shack menus still running. Would you pick this over Paris?",
+    "googleMapsUrl": "https://www.google.com/maps/dir/Montreal%2C+QC%2C+Canada/Quebec+City%2C+QC%2C+Canada/Montmorency+Falls%2C+QC%2C+Canada/Baie-Saint-Paul%2C+QC%2C+Canada",
+    "whyTrending": "Condé Nast Traveler named Prince Edward County and Quebec wine regions among the best places to visit in North America in 2026. Quebec City is trending as a 'Europe without the flight' destination on TikTok. Charlevoix was designated a UNESCO World Biosphere Reserve and its spring sugar shack season draws massive engagement. Montmorency Falls comparisons to Niagara are a proven debate-starter in comments.",
+    "scriptDurationSeconds": 50,
+    "audioFile": "route-46-audio.wav",
+    "videoFile": "route-46-video.mp4",
+    "sfxFile": "car-voice-trimmed.wav",
+    "totalDistance": 230,
+    "captionStyle": 3,
+    "tiktokCaption": "did you know this 30$ roadtrip from Montreal to Baie-Saint-Paul feels like Normandy without the passport #travel #canadaroadtrip #traveltok #montreal #quebeccity #charlevoix",
+    "locationImages": [
+      "https://upload.wikimedia.org/wikipedia/commons/c/c2/Mtl_from_mont_royal_%28cropped%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/6/6f/Quebec_City_Rue_St-Louis_2010.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/b/b5/Montmorency_Falls_01.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/ea/BSP_0484.pp.JPG"
+    ]
+  },
+  {
+    "id": 47,
+    "title": "Bozeman to Mammoth Hot Springs — Yellowstone Reopens",
+    "origin": "Bozeman, MT",
+    "destination": "Mammoth Hot Springs, WY",
+    "waypoints": [
+      "West Yellowstone, MT",
+      "Old Faithful, WY"
+    ],
+    "script": "Did you know Yellowstone's West Entrance just reopened for the season after being closed all winter, and you have a six-week window before the summer crowds arrive? Bozeman to Mammoth Hot Springs is a hundred and eighty miles through a park that is still waking up. You drop south into West Yellowstone where the roads were buried under ten feet of snow last month. You pass Old Faithful erupting with almost zero line, something you cannot find in July. You push north through the Gibbon River canyon, past steam vents hissing through the last patches of snow, and end at Mammoth Hot Springs where bison calves are being born this week. The second Memorial Day hits, this window is gone. Who else is driving up right now?",
+    "googleMapsUrl": "https://www.google.com/maps/dir/Bozeman%2C+MT/West+Yellowstone%2C+MT/Old+Faithful%2C+WY/Mammoth+Hot+Springs%2C+WY",
+    "whyTrending": "Yellowstone's West Entrance officially reopened April 17, 2026 after winter closure, creating a narrow shoulder-season window before Memorial Day crowds. The full loop typically doesn't open until late May, so mid-April drives get empty boardwalks at Old Faithful. Spring bison calf births and reopening footage consistently trend on TikTok every April. Yellowstone has projected record visitation for 2026, making any 'beat the crowd' angle high-converting.",
+    "scriptDurationSeconds": 47,
+    "audioFile": "route-47-audio.wav",
+    "videoFile": "route-47-video.mp4",
+    "sfxFile": "car-voice-trimmed.wav",
+    "totalDistance": 180,
+    "captionStyle": 3,
+    "tiktokCaption": "did you know this 25$ roadtrip from Bozeman to Yellowstone hits the park the week it reopens for spring #travel #usroadtrip #traveltok #yellowstone #bozeman #montana"
+  },
+  {
+    "id": 48,
+    "title": "Chicago to Springfield — Route 66 Turns 100",
+    "origin": "Chicago, IL",
+    "destination": "Springfield, MO",
+    "waypoints": [
+      "St. Louis, MO"
+    ],
+    "script": "Did you know America's most famous road turns a hundred years old this month, and almost nobody is talking about the kickoff concert happening on April thirtieth? Chicago to Springfield Missouri is three hundred and ninety miles of original Route 66, and for two weeks it becomes the biggest road trip story in the country. You leave Chicago from the official Route 66 Begin sign on Adams Street, cross the Mississippi into Saint Louis where the Gateway Arch frames the old alignment, and push southwest into Springfield Missouri, officially recognized as the birthplace of the road itself. The centennial concert takes over Great Southern Bank Arena on April thirtieth. Hotels are already half full. Are you making the drive?",
+    "googleMapsUrl": "https://www.google.com/maps/dir/Chicago%2C+IL/St.+Louis%2C+MO/Springfield%2C+MO",
+    "whyTrending": "Route 66 officially turns 100 years old in 2026, with Springfield, Missouri — recognized as the birthplace of Route 66 — hosting the official centennial kickoff concert at Great Southern Bank Arena on April 30, 2026. Centennial coverage is surging across travel media and TikTok creators are producing dedicated Route 66 series content. The 'most famous road in America turning 100' is an inherently shareable anniversary hook with a hard calendar deadline.",
+    "scriptDurationSeconds": 45,
+    "audioFile": "route-48-audio.wav",
+    "videoFile": "route-48-video.mp4",
+    "sfxFile": "car-voice-trimmed.wav",
+    "totalDistance": 390,
+    "captionStyle": 3,
+    "tiktokCaption": "did you know this 50$ roadtrip from Chicago to Springfield is on Route 66's 100th birthday #travel #usroadtrip #traveltok #route66 #chicago #springfield"
+  },
+  {
+    "id": 49,
+    "title": "Phoenix to Grand Canyon — Arizona's Four Landscapes",
+    "origin": "Phoenix, AZ",
+    "destination": "Grand Canyon South Rim, AZ",
+    "waypoints": [
+      "Sedona, AZ",
+      "Flagstaff, AZ"
+    ],
+    "script": "Rate this two hundred and thirty mile Arizona road trip: Phoenix, Sedona, Flagstaff, Grand Canyon South Rim. Would you do it? You leave Phoenix in seventy-five degree spring weather, climb four thousand feet into the red rock canyons of Sedona where desert wildflowers are hitting peak bloom this week. You stop at Cathedral Rock, the most photographed spot in Arizona, mild enough to actually hike without the summer heat exhaustion. You roll north into Flagstaff, elevation seven thousand feet, ponderosa pine forests, air that smells like vanilla. Last stop is the Grand Canyon South Rim, a mile deep, ten miles across, magic in April before the hundred-degree summer shuts everything down. Six hours of driving, four completely different landscapes. Real or overrated?",
+    "googleMapsUrl": "https://www.google.com/maps/dir/Phoenix%2C+AZ/Sedona%2C+AZ/Flagstaff%2C+AZ/Grand+Canyon+South+Rim%2C+AZ",
+    "whyTrending": "Sedona's spring wildflower bloom peaks in April 2026 with red rock backdrops that consistently drive saves on travel TikTok. The Phoenix-to-Grand-Canyon corridor is on every '2026 underrated road trip' list because it delivers desert, red rock, alpine forest, and canyon landscapes in one day — a rare payoff-per-mile pitch. April timing dodges Grand Canyon's summer heat closures and Phoenix's triple-digit temperatures, a practical urgency hook. Rate-my-route hooks consistently outperform because they force binary comment engagement.",
+    "scriptDurationSeconds": 46,
+    "audioFile": "route-49-audio.wav",
+    "videoFile": "route-49-video.mp4",
+    "sfxFile": "car-voice-trimmed.wav",
+    "totalDistance": 230,
+    "captionStyle": 3,
+    "tiktokCaption": "did you know this 30$ roadtrip from Phoenix to the Grand Canyon hits 4 totally different landscapes in one day #travel #usroadtrip #traveltok #grandcanyon #sedona #arizona",
+    "locationImages": [
+      "https://upload.wikimedia.org/wikipedia/commons/b/b9/Downtown_Phoenix_Aerial_Looking_Northeast.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/b/b0/Cathedral_Rock_-_Sedona_AZ-1.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/5/5a/Flagstaff_AZ_-_downtown_hotel.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/3/35/Grand_Canyon_Ranger%27s_Dormitory.jpg"
+    ]
+  },
+  {
+    "id": 50,
+    "title": "Khasan to Simon's Town — The Longest Road Trip on Earth",
+    "origin": "Khasan, Russia",
+    "destination": "Simon's Town, South Africa",
+    "waypoints": [
+      "Astana, Kazakhstan",
+      "Tehran, Iran",
+      "Cairo, Egypt",
+      "Nairobi, Kenya"
+    ],
+    "script": "Did you know the longest road trip on Earth starts in a tiny Russian town almost nobody has heard of and ends at the southern tip of Africa — eighteen thousand eight hundred and seventy-six kilometers, thirteen days of driving, no ferries, no planes, just one continuous road? It starts in Khasan, a border village in far-east Russia where Russia, China, and North Korea meet, and ends in Simon's Town, South Africa, where penguins walk on the beach. You cross eighteen countries and three continents — the steppe of Kazakhstan, the deserts of Iran, the pyramids of Egypt, the savanna of Kenya. You roll through six time zones. You watch the seasons flip upside down. You start at the edge of the Pacific and end where two oceans collide at the Cape. Thirteen days behind the wheel. Would you actually do it?",
+    "googleMapsUrl": "https://www.google.com/maps/dir/Khasan%2C+Russia/Astana%2C+Kazakhstan/Tehran%2C+Iran/Cairo%2C+Egypt/Nairobi%2C+Kenya/Simon%27s+Town%2C+South+Africa",
+    "whyTrending": "The Khasan-to-Simon's-Town route is viral on travel TikTok in 2026 as 'the longest possible drive on Earth' — videos with this claim routinely cross ten million views because the scale is inherently debatable in comments. The 18 countries and 3 continents angle triggers geography debates that pin threads open for days. Extreme-scale road trip content is outperforming standard scenic-drive content on the algorithm this year because it forces a 'would you do it' reaction. The hard number claim (18,876 km, 13 days) invites route-math corrections that boost engagement.",
+    "scriptDurationSeconds": 52,
+    "audioFile": "route-50-audio.wav",
+    "videoFile": "route-50-video.mp4",
+    "sfxFile": "car-voice-trimmed.wav",
+    "totalDistance": 18876,
+    "captionStyle": 3,
+    "tiktokCaption": "did you know the longest roadtrip on earth is 18876km from Khasan Russia to Simon's Town South Africa — 13 days, 18 countries, 3 continents #travel #longestroadtrip #traveltok #russia #southafrica #worldtravel",
+    "locationImages": [
+      "https://upload.wikimedia.org/wikipedia/commons/5/54/%D0%A1%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%A5%D0%B0%D1%81%D0%B0%D0%BD.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/ce/Astana_DSC04362_%287711355642%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/a/ae/North_of_Tehran_Skyline_view.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/d/db/Cairo_From_Tower_%28cropped%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/b/be/Nairobi_skyline_from_Gem_Hotel.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/7/77/Simons-town.jpg"
+    ]
+  },
+  {
+    "id": 51,
+    "title": "Portland to Columbia Gorge — Five Waterfalls in Eight Miles",
+    "origin": "Portland, OR",
+    "destination": "Portland, OR",
+    "waypoints": [
+      "Latourell Falls, OR",
+      "Bridal Veil Falls, OR",
+      "Wahkeena Falls, OR",
+      "Multnomah Falls, OR",
+      "Horsetail Falls, OR"
+    ],
+    "script": "Did you know there's an 8-mile stretch of road in Oregon where you drive past five massive waterfalls — and the last day to see them without a timed entry permit is exactly a month from today? It's the Historic Columbia River Highway, twenty minutes east of Portland. You start at Latourell — 224 feet, a single clean plunge over a basalt amphitheater. Two miles on, Bridal Veil drops 120 feet through moss-covered cliffs. Then Wahkeena, cascading under a stone arch bridge. Then Multnomah — 620 feet tall, the crown jewel of the Gorge. And finally Horsetail, a thin column falling straight down next to the road. Five waterfalls. Eight miles. Spring snowmelt is at peak flow right now. After May 21st you need a reservation. Go this weekend?",
+    "googleMapsUrl": "https://www.google.com/maps/dir/Portland%2C+OR/Latourell+Falls%2C+OR/Bridal+Veil+Falls%2C+OR/Wahkeena+Falls%2C+OR/Multnomah+Falls%2C+OR/Horsetail+Falls%2C+OR/Portland%2C+OR",
+    "whyTrending": "The Historic Columbia River Highway is hitting peak-flow in April 2026 as spring snowmelt drives all five falls to maximum volume. Multnomah Falls timed-entry permits become mandatory May 22, 2026 through September 7, 2026 — creating a hard one-month urgency window starting right now. Pacific Northwest waterfall content (#multnomahfalls, #pnw) remains one of the top-saved categories on TikTok travel in 2026, and Multnomah is among the most-visited natural attractions in the country. The 'five waterfalls in eight miles' framing is a checkable, debatable claim that baits locals into the comments to argue over whether Shepperd's Dell or Horsetail should have made the cut.",
+    "scriptDurationSeconds": 50,
+    "audioFile": "route-51-audio.wav",
+    "videoFile": "route-51-video.mp4",
+    "sfxFile": "car-voice-trimmed.wav",
+    "totalDistance": 72,
+    "captionStyle": 3,
+    "tiktokCaption": "did you know there's an 8-mile road in Oregon with five waterfalls — and you need a permit to see them after May 21 #travel #oregon #waterfalls #columbiariver #multnomahfalls #pnw #roadtrip #traveltok",
+    "locationImages": [
+      "https://upload.wikimedia.org/wikipedia/commons/4/4d/Portland_Oregon_Aerial%2C_June_2025.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/3/37/Latourell_Falls_%282017-05-28%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/f1/Bridal_Veil_Falls_kayaker.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/2/2c/Wahkeena_Falls_October_2019.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/9/9d/Multnomah_Falls_on_2_August_2012.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/4/4b/Horsetail_Falls_%28Multnomah_County%2C_Oregon%2C_USA%29_7_%2819840192970%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/4/4d/Portland_Oregon_Aerial%2C_June_2025.jpg"
+    ]
+  },
+  {
+    "id": 52,
+    "title": "Tampa to Williamsburg — Five Waterparks One Summer",
+    "origin": "Tampa, Florida",
+    "destination": "Williamsburg, Virginia",
+    "waypoints": [
+      "Orlando, Florida",
+      "Valdosta, Georgia",
+      "Charlotte, North Carolina"
+    ],
+    "script": "Did you know for about $125 in gas you could hit five famous water parks in one epic May roadtrip up the East Coast? Start in Tampa at Adventure Island, where the 70-plus-acre park has seventeen slides dripping through the palms. Drive 85 miles east to Aquatica Orlando for dolphin-view slides and the new Reef Plunge. Then cruise up I-75 to Splash Island at Wild Adventures in Valdosta, Georgia, rated a top thirty US waterpark. Keep rolling north to Carolina Harbor at Carowinds in Charlotte, the Carolinas biggest with a brand new 2026 water ride. Finish at Water Country USA in Williamsburg, Virginia, opening May ninth with the Cutback Water Coaster. One van, one tan, five parks. Would you survive all five in one week?",
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&origin=Tampa,FL&destination=Williamsburg,VA&waypoints=Orlando,FL|Valdosta,GA|Charlotte,NC",
+    "whyTrending": "Water park season opens in late April and early May 2026 across the South, with Water Country USA debuting May 9 and Typhoon Lagoon/Blizzard Beach both running simultaneously for summer. Carowinds just cleared ground for a major new water ride project in its Carolina Harbor, opening May 23, 2026. East Coast waterpark roadtrip content is exploding on TikTok ahead of Kalahari Virginia's November 2026 opening, making the I-75/I-95 water corridor the hottest summer 2026 travel angle.",
+    "scriptDurationSeconds": 48,
+    "audioFile": "route-52-audio.wav",
+    "videoFile": "route-52-video.mp4",
+    "sfxFile": "car-voice-trimmed.wav",
+    "totalDistance": 1015,
+    "captionStyle": 3,
+    "tiktokCaption": "did you know this $125 roadtrip hits 5 water theme parks from tampa to williamsburg #travel #usaroadtrip #waterpark #traveltok",
+    "locationImages": [
+      "https://upload.wikimedia.org/wikipedia/commons/b/bf/Downtown_Tampa%2C_Florida.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Orlando%2C_Florida_%28cropped%29.jpg/3840px-Orlando%2C_Florida_%28cropped%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/6/6f/Valdosta_GA_Comm_Hist_Dist03.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/7/7d/Uptown_Charlotte_2018_taking_by_DJI_Phantom_4_pro.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/3/32/The_Governor%27s_Palace_--_Williamsburg_%28VA%29_September_2012.jpg"
+    ]
+  },
+  {
+    "id": 53,
+    "title": "Seattle to Rome — Alaska's First-Ever Europe Flight",
+    "origin": "Seattle, USA",
+    "destination": "Rome, Italy",
+    "waypoints": [
+      "Hudson Bay",
+      "Greenland ice sheet",
+      "Atlantic Ocean"
+    ],
+    "script": "Did you know for about $650 in fare you could hop Alaska Airlines' brand-new Seattle to Rome nonstop, the airline's first ever flight to Europe? It launches April 28, 2026 on a Boeing 787-9 Dreamliner, and it's daily because demand was already so strong they upgraded it from four times a week. You'll cover 5,673 miles in roughly ten hours, tracing a polar arc over Hudson Bay, slipping past the Greenland ice sheet, then gliding down the North Atlantic before the plane banks over the Italian coast toward Fiumicino. Rome was the biggest European city Seattle couldn't reach direct, with 48,000 passengers flying it on connections last year. So would you take Alaska to the Colosseum for under a grand?",
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&origin=Seattle,WA,USA&destination=Rome,Italy&travelmode=driving",
+    "whyTrending": "Alaska Airlines launched its first-ever nonstop flight to Europe on April 28, 2026 — Seattle to Rome Fiumicino on a Boeing 787-9 Dreamliner. Aviation Week reported on April 1, 2026 that the route was upgraded from four-times-weekly to daily before even launching due to overwhelming demand, and Delta immediately announced a competing Seattle-Rome flight for May. It's Alaska's European debut following its acquisition of Hawaiian Airlines, making it one of the most-talked-about long-haul launches of the 2026 summer season.",
+    "scriptDurationSeconds": 48,
+    "audioFile": "route-53-audio.wav",
+    "videoFile": "route-53-video.mp4",
+    "sfxFile": "plane-voice.mp3",
+    "totalDistance": 5673,
+    "captionStyle": 1,
+    "tiktokCaption": "did you know this $650 flight from seattle to rome is alaska airlines first ever europe route #travel #flight #traveltok #alaskaairlines #rome #seattle #europe #dreamliner",
+    "locationImages": [
+      "https://upload.wikimedia.org/wikipedia/commons/5/58/Seattle_Center_as_night_falls.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/8/86/Hudson_Bay_2008-07-21_by_Aqua.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/9/98/Greenland_ice_sheet_AMSL_thickness_map-en.png",
+      "https://upload.wikimedia.org/wikipedia/commons/4/47/Atlantic_Ocean_-_en.png",
+      "https://upload.wikimedia.org/wikipedia/commons/7/7e/Trevi_Fountain%2C_Rome%2C_Italy_2_-_May_2007.jpg"
+    ]
+  },
+  {
+    "id": 54,
+    "title": "Denver to Estes Park — Highest Paved Road Reopens",
+    "origin": "Denver, Colorado",
+    "destination": "Estes Park, Colorado",
+    "waypoints": [
+      "Idaho Springs",
+      "Mount Blue Sky Summit",
+      "Nederland"
+    ],
+    "script": "Did you know for about $25 in gas you could drive from Denver to Estes Park on the highest paved road in North America — and it just reopened this Memorial Day after being shut for almost two years? Start in Denver, hop on I-70 to Idaho Springs, then climb State Highway 5 up Mount Blue Sky, the old Mount Evans, all the way to 14,140 feet. That's higher than Pikes Peak. You can literally see four states on a clear day. Roll back down to Echo Lake, jump on the Peak to Peak Scenic Byway through Nederland, and finish in Estes Park at the gateway to Rocky Mountain National Park. The road's only open through Labor Day and reservations sell out fast. So would you bag a fourteener with your truck?",
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&origin=Denver,CO&destination=Estes+Park,CO&travelmode=driving&waypoints=Idaho+Springs,CO|Mount+Blue+Sky+Summit,CO|Nederland,CO",
+    "whyTrending": "The Mount Blue Sky Scenic Byway — the highest paved road in North America at 14,140 ft — reopens Memorial Day weekend 2026 after a 20-month closure for summit-area road repairs (Denver Gazette, April 16, 2026; Yahoo Travel, April 22, 2026). Denver Mountain Parks just announced on April 15, 2026 it is taking over summit operations from the U.S. Forest Service, and timed-entry reservations on Recreation.gov are already in high demand. The reopening is one of the most-covered US road-trip stories of late April 2026.",
+    "scriptDurationSeconds": 52,
+    "audioFile": "route-54-audio.wav",
+    "videoFile": "route-54-video.mp4",
+    "sfxFile": "car-voice-trimmed.wav",
+    "totalDistance": 215,
+    "captionStyle": 1,
+    "tiktokCaption": "did you know this 25$ roadtrip from denver to estes park hits the highest paved road in north america #travel #coloradoroadtrip #traveltok #mountbluesky #roadtrip #fourteener #rockymountains #scenicdrive",
+    "locationImages": [
+      "https://upload.wikimedia.org/wikipedia/commons/3/3b/Denver%2C_Colorado_skyline_%28cropped%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/d/dc/Idaho_Springs_in_2006.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Mevans.JPG/960px-Mevans.JPG",
+      "https://media.12newsnow.com/assets/KJAC/images/d0da7ead-aa7c-43b0-817e-349f29afbde6/d0da7ead-aa7c-43b0-817e-349f29afbde6_1920x1080.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/West_Elkhorn_Avenue%2C_Estes_Park_%282024%29-104A4568.jpg/3840px-West_Elkhorn_Avenue%2C_Estes_Park_%282024%29-104A4568.jpg"
+    ]
+  },
+  {
+    "id": 55,
+    "title": "Austin to Bozeman — The Yellowstone Express",
+    "origin": "Austin, TX",
+    "destination": "Bozeman, MT",
+    "waypoints": [
+      "Amarillo, TX",
+      "Aspen, CO",
+      "Yellowstone National Park"
+    ],
+    "script": "Did you know for about $233 in fare you could fly nonstop from Austin to Bozeman, the brand new Delta route that just launched this summer? You leave the heat of central Texas behind and in three and a half hours you're cruising at 36,000 feet straight over the Texas Panhandle, the Colorado Rockies, and dropping into the Gallatin Valley. This route is so popular Delta already extended it into the winter season for ski trips to Big Sky and trips to Yellowstone. The Embraer 175 lifts off from Austin-Bergstrom and lands at Bozeman Yellowstone International, the gateway to America's first national park. So tell me, would you take this flight for the geysers in summer or the powder in winter?",
+    "googleMapsUrl": "https://www.google.com/maps/dir/Austin,+TX/Bozeman,+MT",
+    "whyTrending": "Delta officially launched this nonstop Austin-Bozeman route on June 13, 2026 as a Saturday-only summer service to Yellowstone country. On March 23, 2026, Delta announced it was expanding the route into a daily winter service from December 19, 2026 through March 28, 2027 due to strong demand for ski trips to Big Sky. It's one of the headline new domestic routes of summer 2026 alongside Delta's Austin-Phoenix expansion, riding peak interest in Yellowstone and Montana travel.",
+    "scriptDurationSeconds": 48,
+    "audioFile": "route-55-audio.wav",
+    "videoFile": "route-55-video.mp4",
+    "sfxFile": "plane-voice.mp3",
+    "totalDistance": 1298,
+    "captionStyle": 1,
+    "tiktokCaption": "did you know this 233$ flight from austin to bozeman #travel #flight #traveltok #yellowstone #montana #texas",
+    "locationImages": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Skyline_of_Austin%2C_Texas_%28cropped%29.jpg/3840px-Skyline_of_Austin%2C_Texas_%28cropped%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/d/d3/Amarillo_Texas_Downtown.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/7/7c/Downtown_of_Aspen%2C_Colorado.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/7/73/Grand_Canyon_of_yellowstone.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/0/06/Main_St%2C_Bozeman%2C_Montana_%281%29.JPG"
+    ]
+  },
+  {
+    "id": 56,
+    "title": "New Orleans to Mobile — The Gulf Coast Comeback Train",
+    "origin": "New Orleans, LA",
+    "destination": "Mobile, AL",
+    "waypoints": [
+      "Bay St. Louis, MS",
+      "Gulfport, MS",
+      "Biloxi, MS"
+    ],
+    "script": "Did you know for about $15 in fare you could ride America's biggest comeback train? Amtrak's Mardi Gras Service just smashed its first-year goal of 71,000 riders, hitting 100,000 passengers in only 8 months. This twice-daily route covers 145 miles in three and a half hours, rolling out of New Orleans Union Passenger Terminal, hugging the Mississippi Gulf Coast through Bay St. Louis, Gulfport, and Biloxi, before pulling into Mobile, Alabama. It's the first passenger train between these cities since Hurricane Katrina ripped up the tracks back in 2005, and it sells more Community Coffee than any other Amtrak line. You get Wi-Fi, power outlets, Moon Pies, and a window seat over the bayou. Would you take this train for the price of a cocktail?",
+    "googleMapsUrl": "https://www.google.com/maps/dir/New+Orleans,+LA/Bay+St.+Louis,+MS/Gulfport,+MS/Biloxi,+MS/Mobile,+AL",
+    "whyTrending": "On April 21, 2026, Amtrak's Mardi Gras Service crossed 100,000 riders just 8 months after launch — blowing past its 71,000-rider first-year projection. National Geographic named it one of the top 5 new US rail trips of 2026, and expansion talks for Baton Rouge and Pensacola extensions are heating up. It's the first passenger train between New Orleans and Mobile since Hurricane Katrina destroyed the tracks in 2005.",
+    "scriptDurationSeconds": 52,
+    "audioFile": "route-56-audio.wav",
+    "videoFile": "route-56-video.mp4",
+    "sfxFile": "train-voice.mp3",
+    "totalDistance": 145,
+    "captionStyle": 1,
+    "tiktokCaption": "did you know this 15$ train trip from new orleans to mobile #travel #trainjourney #traveltok #neworleans #gulfcoast #amtrak",
+    "locationImages": [
+      "https://upload.wikimedia.org/wikipedia/commons/c/cb/New_Orleans_from_the_Air_September_2019_-_Central_Business_District_Skyline_%28cropped%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/6/67/The_Bay_St._Louis_bridge_from_above.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/FightingSeabee_NavalConstructionBattalionCenter_Gulfport%2CMS.jpg/3840px-FightingSeabee_NavalConstructionBattalionCenter_Gulfport%2CMS.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/BiloxiLightHouseandVisitorsCenter.jpg/3840px-BiloxiLightHouseandVisitorsCenter.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Mobile%2C_Alabama_skyline.jpg/3840px-Mobile%2C_Alabama_skyline.jpg"
+    ]
+  }
+]
