@@ -715,5 +715,564 @@
     ],
     "googleMapsUrl": "https://www.google.com/maps/dir/New+Orleans,+LA/Bay+St.+Louis,+MS/Gulfport,+MS/Biloxi,+MS/Mobile,+AL",
     "totalDistance": 145
+  },
+  {
+    "id": 57,
+    "title": "California Redwoods Roadtrip",
+    "origin": "Muir Woods National Monument, CA",
+    "destination": "Jedediah Smith Redwoods State Park, CA",
+    "waypoints": [
+      "Armstrong Redwoods State Natural Reserve, CA",
+      "Chandelier Drive-Thru Tree, Leggett, CA",
+      "Founders Grove, Humboldt Redwoods State Park, CA",
+      "Avenue of the Giants, CA",
+      "Lady Bird Johnson Grove, Redwood National Park, CA",
+      "Trees of Mystery, Klamath, CA"
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/dir/Muir+Woods+National+Monument,+CA/Armstrong+Redwoods+State+Natural+Reserve,+CA/Chandelier+Drive-Thru+Tree,+Leggett,+CA/Founders+Grove,+Humboldt+Redwoods+State+Park,+CA/Avenue+of+the+Giants,+CA/Lady+Bird+Johnson+Grove,+Redwood+National+Park,+CA/Trees+of+Mystery,+Klamath,+CA/Jedediah+Smith+Redwoods+State+Park,+CA",
+    "totalDistance": 407
+  },
+  {
+    "id": 58,
+    "title": "Florida Best Manatee Spots",
+    "origin": "Manatee Springs State Park, FL",
+    "destination": "Manatee Lagoon, West Palm Beach, FL",
+    "waypoints": [
+      "Three Sisters Springs, FL",
+      "Silver Springs State Park, FL",
+      "Blue Spring State Park, FL",
+      "ZooTampa at Lowry Park, FL",
+      "Manatee Viewing Center, Apollo Beach, FL",
+      "Manatee Park, Fort Myers, FL"
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/dir/Manatee+Springs+State+Park,+FL/Three+Sisters+Springs,+FL/Silver+Springs+State+Park,+FL/Blue+Spring+State+Park,+FL/ZooTampa+at+Lowry+Park,+FL/Manatee+Viewing+Center,+Apollo+Beach,+FL/Manatee+Park,+Fort+Myers,+FL/Manatee+Lagoon,+West+Palm+Beach,+FL",
+    "totalDistance": 536
+  },
+  {
+    "id": 59,
+    "title": "Coolest 1-Hour Drive in Texas",
+    "origin": "San Antonio, TX",
+    "destination": "Boerne, TX",
+    "waypoints": [
+      "Friedrich Wilderness Park, San Antonio, TX",
+      "Leon Springs, TX",
+      "Cascade Caverns, Boerne, TX"
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/dir/San+Antonio,+TX/Friedrich+Wilderness+Park,+San+Antonio,+TX/Leon+Springs,+TX/Cascade+Caverns,+Boerne,+TX/Boerne,+TX",
+    "totalDistance": 38
+  },
+  {
+    "id": 60,
+    "title": "California Snow Globe Towns",
+    "origin": "McCloud, CA",
+    "destination": "Wrightwood, CA",
+    "waypoints": [
+      "Quincy, CA",
+      "Truckee, CA",
+      "Markleeville, CA",
+      "June Lake, CA"
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/dir/McCloud,+CA/Quincy,+CA/Truckee,+CA/Markleeville,+CA/June+Lake,+CA/Wrightwood,+CA",
+    "totalDistance": 697
+  },
+  {
+    "id": 61,
+    "title": "California Blue Lakes Itinerary",
+    "origin": "Lake Tahoe, CA",
+    "destination": "Lake Sabrina, CA",
+    "waypoints": [
+      "Tenaya Lake, CA",
+      "Mono Lake, CA",
+      "June Lake, CA",
+      "Convict Lake, CA"
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/dir/Lake+Tahoe,+CA/Tenaya+Lake,+CA/Mono+Lake,+CA/June+Lake,+CA/Convict+Lake,+CA/Lake+Sabrina,+CA",
+    "totalDistance": 284
+  },
+  {
+    "id": 62,
+    "title": "8 Waterfalls of North Georgia",
+    "origin": "Holcomb Creek Falls, GA",
+    "destination": "Lula Falls, GA",
+    "waypoints": [
+      "Dick's Creek Falls, GA",
+      "Raper Creek Falls, GA",
+      "Blue Hole Falls, GA",
+      "Double Culvert Branch Falls, GA",
+      "Helton Creek Falls, GA",
+      "Bearden Falls, GA"
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/dir/Holcomb+Creek+Falls,+GA/Dick's+Creek+Falls,+GA/Raper+Creek+Falls,+GA/Blue+Hole+Falls,+GA/Double+Culvert+Branch+Falls,+GA/Helton+Creek+Falls,+GA/Bearden+Falls,+GA/Lula+Falls,+GA",
+    "totalDistance": 264
+  },
+  {
+    "id": 63,
+    "title": "7 Theme Parks in New York",
+    "origin": "Seabreeze Amusement Park, Rochester, NY",
+    "destination": "Deno's Wonder Wheel, Coney Island, NY",
+    "waypoints": [
+      "Enchanted Forest Water Safari, Old Forge, NY",
+      "Lake George Expedition Park, NY",
+      "Huck Finn's Playland, Albany, NY",
+      "Zoom Flume Water Park, East Durham, NY",
+      "Adventureland, Farmingdale, NY"
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/dir/Seabreeze+Amusement+Park,+Rochester,+NY/Enchanted+Forest+Water+Safari,+Old+Forge,+NY/Lake+George+Expedition+Park,+NY/Huck+Finn's+Playland,+Albany,+NY/Zoom+Flume+Water+Park,+East+Durham,+NY/Adventureland,+Farmingdale,+NY/Deno's+Wonder+Wheel,+Coney+Island,+NY",
+    "totalDistance": 568
+  },
+  {
+    "id": 64,
+    "title": "Pennsylvania Waterfalls Loop",
+    "origin": "Round Island Run Falls, Sproul State Forest, PA",
+    "destination": "Buttermilk Falls, Indiana County, PA",
+    "waypoints": [
+      "Kildoo Falls, McConnells Mill State Park, PA",
+      "Buttermilk Falls, Beaver County, PA",
+      "Frankfort Mineral Springs Falls, Raccoon Creek State Park, PA",
+      "Cucumber Falls, Ohiopyle State Park, PA",
+      "Adams Falls, Linn Run State Park, PA"
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/dir/Round+Island+Run+Falls,+Sproul+State+Forest,+PA/Kildoo+Falls,+McConnells+Mill+State+Park,+PA/Buttermilk+Falls,+Beaver+County,+PA/Frankfort+Mineral+Springs+Falls,+Raccoon+Creek+State+Park,+PA/Cucumber+Falls,+Ohiopyle+State+Park,+PA/Adams+Falls,+Linn+Run+State+Park,+PA/Buttermilk+Falls,+Indiana+County,+PA",
+    "totalDistance": 364
+  },
+  {
+    "id": 65,
+    "title": "10 Must-Visit Lakes in the Bay Area",
+    "origin": "Crystal Springs Reservoir, CA",
+    "destination": "Lexington Reservoir, CA",
+    "waypoints": [
+      "Lake Merced, San Francisco, CA",
+      "Blue Heron Lake, Golden Gate Park, CA",
+      "Lake Anza, CA",
+      "Temescal, Oakland, CA",
+      "Lake Chabot, CA",
+      "Shadow Cliffs, Pleasanton, CA",
+      "Shoreline Lake, Mountain View, CA",
+      "Vasona Lake County Park, Los Gatos, CA"
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/dir/Crystal+Springs+Reservoir,+CA/Lake+Merced,+San+Francisco,+CA/Blue+Heron+Lake,+Golden+Gate+Park,+CA/Lake+Anza,+CA/Temescal,+Oakland,+CA/Lake+Chabot,+CA/Shadow+Cliffs,+Pleasanton,+CA/Shoreline+Lake,+Mountain+View,+CA/Vasona+Lake+County+Park,+Los+Gatos,+CA/Lexington+Reservoir,+CA",
+    "totalDistance": 150
+  },
+  {
+    "id": 66,
+    "title": "Pocono Mountains Waterfalls",
+    "origin": "Shohola Falls, PA",
+    "destination": "Hawk Falls, Kidder Township, PA",
+    "waypoints": [
+      "Raymondskill Falls, PA",
+      "Dingmans Falls, PA",
+      "Bushkill Falls, PA",
+      "Austin T. Blakeslee Natural Area, PA"
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/dir/Shohola+Falls,+PA/Raymondskill+Falls,+PA/Dingmans+Falls,+PA/Bushkill+Falls,+PA/Austin+T.+Blakeslee+Natural+Area,+PA/Hawk+Falls,+Kidder+Township,+PA",
+    "totalDistance": 85
+  },
+  {
+    "id": 67,
+    "title": "Philadelphia in One Day",
+    "origin": "Philadelphia International Airport (PHL), PA",
+    "destination": "Penn's Landing, Philadelphia, PA",
+    "waypoints": [
+      "Reading Terminal Market, Philadelphia, PA",
+      "Philadelphia Museum of Art, PA",
+      "Rocky Statue, Philadelphia, PA",
+      "Schuylkill River Trail, Philadelphia, PA",
+      "Rittenhouse Square, Philadelphia, PA",
+      "Independence Hall, Philadelphia, PA",
+      "Liberty Bell, Philadelphia, PA",
+      "Elfreth's Alley, Philadelphia, PA"
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/dir/Philadelphia+International+Airport+(PHL),+PA/Reading+Terminal+Market,+Philadelphia,+PA/Philadelphia+Museum+of+Art,+PA/Rocky+Statue,+Philadelphia,+PA/Schuylkill+River+Trail,+Philadelphia,+PA/Rittenhouse+Square,+Philadelphia,+PA/Independence+Hall,+Philadelphia,+PA/Liberty+Bell,+Philadelphia,+PA/Elfreth's+Alley,+Philadelphia,+PA/Penn's+Landing,+Philadelphia,+PA",
+    "totalDistance": 25
+  },
+  {
+    "id": 68,
+    "title": "Viral Cliff Jump Spots Across the US",
+    "origin": "Crater Lake National Park, OR",
+    "destination": "Red Rocks Park, South Burlington, VT",
+    "waypoints": [
+      "Malibu Creek, CA",
+      "Havasu Falls, AZ",
+      "Hells Gate, Possum Kingdom Lake, TX"
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/dir/Crater+Lake+National+Park,+OR/Malibu+Creek,+CA/Havasu+Falls,+AZ/Hells+Gate,+Possum+Kingdom+Lake,+TX/Red+Rocks+Park,+South+Burlington,+VT",
+    "totalDistance": 6300
+  },
+  {
+    "id": 69,
+    "title": "Pennsylvania Stargazing Locations",
+    "origin": "Cherry Springs State Park, PA",
+    "destination": "Ohiopyle State Park, PA",
+    "waypoints": [
+      "Sproul State Forest, PA",
+      "Worlds End State Park, PA",
+      "French Creek State Park, PA",
+      "Pine Grove Furnace State Park, PA",
+      "Laurel Hill State Park, PA"
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/dir/Cherry+Springs+State+Park,+PA/Sproul+State+Forest,+PA/Worlds+End+State+Park,+PA/French+Creek+State+Park,+PA/Pine+Grove+Furnace+State+Park,+PA/Laurel+Hill+State+Park,+PA/Ohiopyle+State+Park,+PA",
+    "totalDistance": 527
+  },
+  {
+    "id": 70,
+    "title": "Florida Museums Roadtrip",
+    "origin": "Wakulla Springs, FL",
+    "destination": "Peace River, FL",
+    "waypoints": [
+      "Florida Museum of Natural History, Gainesville, FL",
+      "Devil's Den Prehistoric Spring, FL",
+      "Crystal River Archaeological State Park, FL",
+      "Museum of Arts & Sciences, Daytona Beach, FL"
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/dir/Wakulla+Springs,+FL/Florida+Museum+of+Natural+History,+Gainesville,+FL/Devil's+Den+Prehistoric+Spring,+FL/Crystal+River+Archaeological+State+Park,+FL/Museum+of+Arts+&+Sciences,+Daytona+Beach,+FL/Peace+River,+FL",
+    "totalDistance": 515
+  },
+  {
+    "id": 71,
+    "title": "Best Date Spots in Pennsylvania",
+    "origin": "Cherry Springs Picnic Pavilion, PA",
+    "destination": "Point State Park, Pittsburgh, PA",
+    "waypoints": [
+      "Lake Harmony Inn, PA",
+      "New Hope, PA",
+      "Longwood Gardens, PA"
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/dir/Cherry+Springs+Picnic+Pavilion,+PA/Lake+Harmony+Inn,+PA/New+Hope,+PA/Longwood+Gardens,+PA/Point+State+Park,+Pittsburgh,+PA",
+    "totalDistance": 627
+  },
+  {
+    "id": 72,
+    "title": "Florida Clearwater Springs Roadtrip",
+    "origin": "Weeki Wachee Spring, FL",
+    "destination": "Madison Blue Spring State Park, FL",
+    "waypoints": [
+      "Wekiwa Springs State Park, FL",
+      "Juniper Springs, FL",
+      "Silver Springs State Park, FL",
+      "Devil's Den Prehistoric Spring, FL",
+      "Ichetucknee Springs State Park, FL"
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/dir/Weeki+Wachee+Spring,+FL/Wekiwa+Springs+State+Park,+FL/Juniper+Springs,+FL/Silver+Springs+State+Park,+FL/Devil's+Den+Prehistoric+Spring,+FL/Ichetucknee+Springs+State+Park,+FL/Madison+Blue+Spring+State+Park,+FL",
+    "totalDistance": 319
+  },
+  {
+    "id": 73,
+    "title": "Georgia State Parks Roadtrip",
+    "origin": "Cloudland Canyon State Park, GA",
+    "destination": "Seminole State Park, GA",
+    "waypoints": [
+      "Sky Valley, GA",
+      "Tybee Island, GA",
+      "St. Marys, GA"
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/dir/Cloudland+Canyon+State+Park,+GA/Sky+Valley,+GA/Tybee+Island,+GA/St.+Marys,+GA/Seminole+State+Park,+GA",
+    "totalDistance": 1235
+  },
+  {
+    "id": 74,
+    "title": "Best Coastal Sunrise Spots in California",
+    "origin": "Baker Beach, San Francisco, CA",
+    "destination": "Natural Bridges State Beach, Santa Cruz, CA",
+    "waypoints": [
+      "Devil's Slide, Pacifica, CA",
+      "Half Moon Bay State Beach, CA",
+      "Pigeon Point Lighthouse, CA"
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/dir/Baker+Beach,+San+Francisco,+CA/Devil's+Slide,+Pacifica,+CA/Half+Moon+Bay+State+Beach,+CA/Pigeon+Point+Lighthouse,+CA/Natural+Bridges+State+Beach,+Santa+Cruz,+CA",
+    "totalDistance": 74
+  },
+  {
+    "id": 75,
+    "title": "Washington Secret Beach Stops",
+    "origin": "Point No Point Beach, WA",
+    "destination": "Bottle Beach State Park, WA",
+    "waypoints": [
+      "Foulweather Bluff Preserve, WA",
+      "Dungeness Spit Trail, WA",
+      "Chito Beach, WA",
+      "Sooes Beach, WA",
+      "Kayostia Beach, WA",
+      "Third Beach Trail, WA",
+      "Pacific Beach, WA",
+      "Roosevelt Beach, WA"
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/dir/Point+No+Point+Beach,+WA/Foulweather+Bluff+Preserve,+WA/Dungeness+Spit+Trail,+WA/Chito+Beach,+WA/Sooes+Beach,+WA/Kayostia+Beach,+WA/Third+Beach+Trail,+WA/Pacific+Beach,+WA/Roosevelt+Beach,+WA/Bottle+Beach+State+Park,+WA",
+    "totalDistance": 342
+  },
+  {
+    "id": 76,
+    "title": "The Secret Lakes in Georgia",
+    "origin": "Conasauga Lake, GA",
+    "destination": "Banks Lake, GA",
+    "waypoints": [
+      "Lake Winfield Scott, GA",
+      "Lake Yonah, GA",
+      "Walter F. George Reservoir, GA"
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/dir/Conasauga+Lake,+GA/Lake+Winfield+Scott,+GA/Lake+Yonah,+GA/Walter+F.+George+Reservoir,+GA/Banks+Lake,+GA",
+    "totalDistance": 491
+  },
+  {
+    "id": 77,
+    "title": "Under-the-Radar Theme Parks in Florida",
+    "origin": "Busch Gardens Tampa Bay, FL",
+    "destination": "Fun Spot America, Orlando, FL",
+    "waypoints": [
+      "Dinosaur World, Plant City, FL",
+      "LEGOLAND Florida Resort, Winter Haven, FL",
+      "Gatorland, Orlando, FL"
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/dir/Busch+Gardens+Tampa+Bay,+FL/Dinosaur+World,+Plant+City,+FL/LEGOLAND+Florida+Resort,+Winter+Haven,+FL/Gatorland,+Orlando,+FL/Fun+Spot+America,+Orlando,+FL",
+    "totalDistance": 106
+  },
+  {
+    "id": 78,
+    "title": "Mammoth Lakes Roadtrip Itinerary",
+    "origin": "Rainbow Falls, CA",
+    "destination": "Crystal Lake Trailhead, CA",
+    "waypoints": [
+      "Devils Postpile National Monument, CA",
+      "Minaret Vista, CA",
+      "Mammoth Mountain, CA"
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/dir/Rainbow+Falls,+CA/Devils+Postpile+National+Monument,+CA/Minaret+Vista,+CA/Mammoth+Mountain,+CA/Crystal+Lake+Trailhead,+CA",
+    "totalDistance": 17
+  },
+  {
+    "id": 79,
+    "title": "June Lake Loop Itinerary",
+    "origin": "Grant Lake, CA",
+    "destination": "Parker Lake, CA",
+    "waypoints": [
+      "Silver Lake, June Lake, CA",
+      "June Lake Campground, CA",
+      "West Portal Scenic View Point, CA"
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/dir/Grant+Lake,+CA/Silver+Lake,+June+Lake,+CA/June+Lake+Campground,+CA/West+Portal+Scenic+View+Point,+CA/Parker+Lake,+CA",
+    "totalDistance": 24
+  },
+  {
+    "id": 80,
+    "title": "Central Texas Scenic Loop",
+    "origin": "Waco Mammoth National Monument, TX",
+    "destination": "Lake Travis Scenic Overlook, The Oasis, TX",
+    "waypoints": [
+      "Chalk Ridge Falls Park, Belton, TX",
+      "Inner Space Cavern, Georgetown, TX",
+      "Blue Hole, Georgetown, TX"
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/dir/Waco+Mammoth+National+Monument,+TX/Chalk+Ridge+Falls+Park,+Belton,+TX/Inner+Space+Cavern,+Georgetown,+TX/Blue+Hole,+Georgetown,+TX/Lake+Travis+Scenic+Overlook,+The+Oasis,+TX",
+    "totalDistance": 114
+  },
+  {
+    "id": 81,
+    "title": "5 Best Theme Parks in Tennessee",
+    "origin": "Soaky Mountain Waterpark, Sevierville, TN",
+    "destination": "FunStop Family Action Park, Pigeon Forge, TN",
+    "waypoints": [
+      "Rowdy Bear's Smoky Mountain Snowpark, Pigeon Forge, TN",
+      "Lost Mine Mountain Coaster, Pigeon Forge, TN",
+      "The Island in Pigeon Forge, TN"
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/dir/Soaky+Mountain+Waterpark,+Sevierville,+TN/Rowdy+Bear's+Smoky+Mountain+Snowpark,+Pigeon+Forge,+TN/Lost+Mine+Mountain+Coaster,+Pigeon+Forge,+TN/The+Island+in+Pigeon+Forge,+TN/FunStop+Family+Action+Park,+Pigeon+Forge,+TN",
+    "totalDistance": 10
+  },
+  {
+    "id": 82,
+    "title": "5 Secret Swimming Holes in Tennessee",
+    "origin": "Cummins Falls, TN",
+    "destination": "Foster Falls, TN",
+    "waypoints": [
+      "George Hole, TN",
+      "Rutledge Falls, TN",
+      "Greeter Falls, TN"
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/dir/Cummins+Falls,+TN/George+Hole,+TN/Rutledge+Falls,+TN/Greeter+Falls,+TN/Foster+Falls,+TN",
+    "totalDistance": 175
+  },
+  {
+    "id": 83,
+    "title": "5 Mystical Places in Washington",
+    "origin": "Cape Flattery, WA",
+    "destination": "Deception Pass Bridge, WA",
+    "waypoints": [
+      "Ruby Beach, WA",
+      "Hoh Rain Forest, WA",
+      "Ebey's Landing, WA"
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/dir/Cape+Flattery,+WA/Ruby+Beach,+WA/Hoh+Rain+Forest,+WA/Ebey's+Landing,+WA/Deception+Pass+Bridge,+WA",
+    "totalDistance": 253
+  },
+  {
+    "id": 84,
+    "title": "5 Florida Beaches with the Whitest Sand",
+    "origin": "Perdido Key, FL",
+    "destination": "Grayton Beach State Park, FL",
+    "waypoints": [
+      "Pensacola Beach, FL",
+      "Henderson Beach State Park, Destin, FL",
+      "Topsail Hill Preserve State Park, FL"
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/dir/Perdido+Key,+FL/Pensacola+Beach,+FL/Henderson+Beach+State+Park,+Destin,+FL/Topsail+Hill+Preserve+State+Park,+FL/Grayton+Beach+State+Park,+FL",
+    "totalDistance": 91
+  },
+  {
+    "id": 85,
+    "title": "Best State Parks for Camping in Tennessee",
+    "origin": "Roan Mountain State Park, TN",
+    "destination": "Cumberland Mountain State Park, TN",
+    "waypoints": [
+      "Warriors' Path State Park, TN",
+      "Panther Creek State Park, TN",
+      "Pickett CCC Memorial State Park, TN"
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/dir/Roan+Mountain+State+Park,+TN/Warriors'+Path+State+Park,+TN/Panther+Creek+State+Park,+TN/Pickett+CCC+Memorial+State+Park,+TN/Cumberland+Mountain+State+Park,+TN",
+    "totalDistance": 277
+  },
+  {
+    "id": 86,
+    "title": "Swiss Mountain Lakeside Drive",
+    "origin": "Zurich Airport (ZRH), Switzerland",
+    "destination": "Lake Lungern, Switzerland",
+    "waypoints": [
+      "Lake Lucerne, Switzerland"
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/dir/Zurich+Airport+(ZRH),+Switzerland/Lake+Lucerne,+Switzerland/Lake+Lungern,+Switzerland",
+    "totalDistance": 75
+  },
+  {
+    "id": 87,
+    "title": "Madeira Viral Mountain View",
+    "origin": "Madeira Airport (FNC), Portugal",
+    "destination": "Porto Moniz, Portugal",
+    "waypoints": [
+      "Ribeira Brava, Portugal"
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/dir/Madeira+Airport+(FNC),+Portugal/Ribeira+Brava,+Portugal/Porto+Moniz,+Portugal",
+    "totalDistance": 35
+  },
+  {
+    "id": 88,
+    "title": "Iceland South Coast Roadtrip",
+    "origin": "Silfra Fissure, Þingvellir National Park, Iceland",
+    "destination": "Reynisfjara Beach, Iceland",
+    "waypoints": [
+      "Geysir, Iceland",
+      "Rauðháskál, Iceland",
+      "Landmannalaugar, Iceland"
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/dir/Silfra+Fissure,+Þingvellir+National+Park,+Iceland/Geysir,+Iceland/Rauðháskál,+Iceland/Landmannalaugar,+Iceland/Reynisfjara+Beach,+Iceland",
+    "totalDistance": 246
+  },
+  {
+    "id": 89,
+    "title": "Faroe Islands Floating Lake",
+    "origin": "Vágar Airport, Faroe Islands",
+    "destination": "Sørvágsvatn (Floating Lake), Faroe Islands",
+    "waypoints": [
+      "Trælanípan Trailhead, Faroe Islands",
+      "Trælanípan Trail, Faroe Islands"
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/dir/Vágar+Airport,+Faroe+Islands/Trælanípan+Trailhead,+Faroe+Islands/Trælanípan+Trail,+Faroe+Islands/Sørvágsvatn+(Floating+Lake),+Faroe+Islands",
+    "totalDistance": 6
+  },
+  {
+    "id": 90,
+    "title": "Unreal Lofoten Islands Drive",
+    "origin": "Leknes Airport, Norway",
+    "destination": "Fredvang Bridges, Lofoten Islands, Norway",
+    "waypoints": [],
+    "googleMapsUrl": "https://www.google.com/maps/dir/Leknes+Airport,+Norway/Fredvang+Bridges,+Lofoten+Islands,+Norway",
+    "totalDistance": 22
+  },
+  {
+    "id": 91,
+    "title": "Los Angeles to New York City",
+    "origin": "Los Angeles, CA",
+    "destination": "New York City, NY",
+    "waypoints": [],
+    "googleMapsUrl": "https://www.google.com/maps/dir/Los+Angeles,+CA/New+York+City,+NY",
+    "totalDistance": 2790
+  },
+  {
+    "id": 92,
+    "title": "Miami to Seattle",
+    "origin": "Miami, FL",
+    "destination": "Seattle, WA",
+    "waypoints": [],
+    "googleMapsUrl": "https://www.google.com/maps/dir/Miami,+FL/Seattle,+WA",
+    "totalDistance": 3480
+  },
+  {
+    "id": 93,
+    "title": "Houston to Seattle",
+    "origin": "Houston, TX",
+    "destination": "Seattle, WA",
+    "waypoints": [],
+    "googleMapsUrl": "https://www.google.com/maps/dir/Houston,+TX/Seattle,+WA",
+    "totalDistance": 2680
+  },
+  {
+    "id": 94,
+    "title": "San Francisco to New York City",
+    "origin": "San Francisco, CA",
+    "destination": "New York City, NY",
+    "waypoints": [],
+    "googleMapsUrl": "https://www.google.com/maps/dir/San+Francisco,+CA/New+York+City,+NY",
+    "totalDistance": 3100
+  },
+  {
+    "id": 95,
+    "title": "Chicago to Los Angeles",
+    "origin": "Chicago, IL",
+    "destination": "Los Angeles, CA",
+    "waypoints": [],
+    "googleMapsUrl": "https://www.google.com/maps/dir/Chicago,+IL/Los+Angeles,+CA",
+    "totalDistance": 2400
+  },
+  {
+    "id": 96,
+    "title": "San Francisco to San Diego",
+    "origin": "San Francisco, CA",
+    "destination": "San Diego, CA",
+    "waypoints": [],
+    "googleMapsUrl": "https://www.google.com/maps/dir/San+Francisco,+CA/San+Diego,+CA",
+    "totalDistance": 620
+  },
+  {
+    "id": 97,
+    "title": "Miami to Acadia, Maine",
+    "origin": "Miami, FL",
+    "destination": "Acadia National Park, ME",
+    "waypoints": [],
+    "googleMapsUrl": "https://www.google.com/maps/dir/Miami,+FL/Acadia+National+Park,+ME",
+    "totalDistance": 2060
+  },
+  {
+    "id": 98,
+    "title": "Denver to Moab",
+    "origin": "Denver, CO",
+    "destination": "Moab, UT",
+    "waypoints": [],
+    "googleMapsUrl": "https://www.google.com/maps/dir/Denver,+CO/Moab,+UT",
+    "totalDistance": 350
+  },
+  {
+    "id": 99,
+    "title": "Nashville to New Orleans",
+    "origin": "Nashville, TN",
+    "destination": "New Orleans, LA",
+    "waypoints": [],
+    "googleMapsUrl": "https://www.google.com/maps/dir/Nashville,+TN/New+Orleans,+LA",
+    "totalDistance": 680
+  },
+  {
+    "id": 100,
+    "title": "Detroit to Key West",
+    "origin": "Detroit, MI",
+    "destination": "Key West, FL",
+    "waypoints": [],
+    "googleMapsUrl": "https://www.google.com/maps/dir/Detroit,+MI/Key+West,+FL",
+    "totalDistance": 1600
   }
 ]

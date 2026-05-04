@@ -101,14 +101,14 @@ function resolveRoute(r) {
 
 function buildHeroStats() {
   const countries = new Set();
-  let totalKm = 0;
+  let totalMiles = 0;
   for (const r of state.routes) {
-    totalKm += (r.totalDistance || 0);
+    totalMiles += (r.totalDistance || 0);
     for (const p of r.points) countries.add(p.name.split(',').pop().trim());
   }
   document.getElementById('routeCount').textContent    = state.routes.length;
   document.getElementById('countryCount').textContent  = countries.size;
-  document.getElementById('totalDistance').textContent = totalKm.toLocaleString();
+  document.getElementById('totalDistance').textContent = totalMiles.toLocaleString();
 }
 
 /* ============================================================
@@ -426,13 +426,26 @@ function makeTravelingDot(r) {
     interpolationAlgorithm: Cesium.LinearApproximation,
   });
 
+  // Subdivide each segment along the geodesic so the linearly-interpolated
+  // samples track the surface arc. Without this, a long leg like Seattle →
+  // Miami draws the polyline as a curve but the dot's straight chord cuts
+  // through the planet, putting it visibly off the line.
   let elapsed = 0;
-  for (const seg of segments) {
+  for (let s = 0; s < segments.length; s++) {
+    const seg = segments[s];
     const segDur = (seg.len / totalLen) * durationSec;
-    const t0 = Cesium.JulianDate.addSeconds(start, elapsed, new Cesium.JulianDate());
-    const t1 = Cesium.JulianDate.addSeconds(start, elapsed + segDur, new Cesium.JulianDate());
-    samples.addSample(t0, Cesium.Cartesian3.fromDegrees(seg.a.lng, seg.a.lat));
-    samples.addSample(t1, Cesium.Cartesian3.fromDegrees(seg.b.lng, seg.b.lat));
+    const geodesic = new Cesium.EllipsoidGeodesic(
+      Cesium.Cartographic.fromDegrees(seg.a.lng, seg.a.lat),
+      Cesium.Cartographic.fromDegrees(seg.b.lng, seg.b.lat)
+    );
+    const steps = Math.max(2, Math.ceil(seg.len / 50));   // ~50 km between samples
+    const startStep = s === 0 ? 0 : 1;                    // skip boundary dup
+    for (let i = startStep; i <= steps; i++) {
+      const f = i / steps;
+      const pt = geodesic.interpolateUsingFraction(f);
+      const t  = Cesium.JulianDate.addSeconds(start, elapsed + segDur * f, new Cesium.JulianDate());
+      samples.addSample(t, Cesium.Cartesian3.fromRadians(pt.longitude, pt.latitude));
+    }
     elapsed += segDur;
   }
 
@@ -512,7 +525,7 @@ function buildList() {
       <div class="list-item-body">
         <div class="list-item-title">${escapeHtml(r.title)}</div>
         <div class="list-item-route">${escapeHtml(r.origin)} → ${escapeHtml(r.destination)}</div>
-        ${r.totalDistance ? `<div class="list-item-dist">${r.totalDistance.toLocaleString()} km</div>` : ''}
+        ${r.totalDistance ? `<div class="list-item-dist">${r.totalDistance.toLocaleString()} mi</div>` : ''}
       </div>
     </div>
   `).join('');
@@ -599,7 +612,7 @@ function selectRoute(id, { fly = false } = {}) {
 
 function renderDetail(r) {
   const wp = (r.waypoints || []);
-  const dist = r.totalDistance ? `${r.totalDistance.toLocaleString()} km` : '—';
+  const dist = r.totalDistance ? `${r.totalDistance.toLocaleString()} mi` : '—';
 
   const html = `
     <div class="detail-num">ROUTE · ${String(r.id).padStart(2, '0')}</div>
@@ -661,7 +674,7 @@ function renderDetail(r) {
    middle-of-the-road values that the user can override.
    ============================================================ */
 
-const GAS_DEFAULTS = { efficiency: 12, price: 1.40 };  // 12 km/L, $1.40/L
+const GAS_DEFAULTS = { mpg: 25, price: 3.50 };  // 25 mpg, $3.50/gallon
 
 function renderGasCalc(r) {
   return `
@@ -672,14 +685,14 @@ function renderGasCalc(r) {
           <span class="gas-label">Distance</span>
           <span class="gas-input-wrap">
             <input id="gasDist" type="number" min="0" step="1" value="${r.totalDistance}" inputmode="decimal" />
-            <span class="gas-unit">km</span>
+            <span class="gas-unit">mi</span>
           </span>
         </label>
         <label class="gas-field">
           <span class="gas-label">Mileage</span>
           <span class="gas-input-wrap">
-            <input id="gasEff" type="number" min="0.1" step="0.1" value="${GAS_DEFAULTS.efficiency}" inputmode="decimal" />
-            <span class="gas-unit">km/L</span>
+            <input id="gasEff" type="number" min="0.1" step="0.1" value="${GAS_DEFAULTS.mpg}" inputmode="decimal" />
+            <span class="gas-unit">mpg</span>
           </span>
         </label>
         <label class="gas-field">
@@ -687,14 +700,14 @@ function renderGasCalc(r) {
           <span class="gas-input-wrap">
             <span class="gas-unit gas-unit-pre">$</span>
             <input id="gasPrice" type="number" min="0" step="0.01" value="${GAS_DEFAULTS.price.toFixed(2)}" inputmode="decimal" />
-            <span class="gas-unit">/L</span>
+            <span class="gas-unit">/gal</span>
           </span>
         </label>
       </div>
       <div class="gas-result">
         <div class="gas-result-row">
           <span class="gas-result-label">Fuel needed</span>
-          <span class="gas-result-value" id="gasLiters">—</span>
+          <span class="gas-result-value" id="gasGallons">—</span>
         </div>
         <div class="gas-result-row gas-result-total">
           <span class="gas-result-label">Trip cost</span>
@@ -715,17 +728,17 @@ function wireGasCalc(r) {
     const d = parseFloat(distEl.value);
     const e = parseFloat(effEl.value);
     const p = parseFloat(priceEl.value);
-    const litersEl = document.getElementById('gasLiters');
-    const totalEl  = document.getElementById('gasTotal');
+    const gallonsEl = document.getElementById('gasGallons');
+    const totalEl   = document.getElementById('gasTotal');
     if (!Number.isFinite(d) || !Number.isFinite(e) || !Number.isFinite(p) || e <= 0 || d < 0 || p < 0) {
-      litersEl.textContent = '—';
-      totalEl.textContent  = '—';
+      gallonsEl.textContent = '—';
+      totalEl.textContent   = '—';
       return;
     }
-    const liters = d / e;
-    const total  = liters * p;
-    litersEl.textContent = `${liters.toFixed(1)} L`;
-    totalEl.textContent  = `$${total.toFixed(2)}`;
+    const gallons = d / e;
+    const total   = gallons * p;
+    gallonsEl.textContent = `${gallons.toFixed(1)} gal`;
+    totalEl.textContent   = `$${total.toFixed(2)}`;
   };
 
   [distEl, effEl, priceEl].forEach(el => el.addEventListener('input', update));
