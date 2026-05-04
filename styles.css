@@ -517,21 +517,96 @@ a { color: inherit; }
   text-transform: uppercase;
   margin: 0 0 8px;
 }
-.detail-script {
-  font-size: 14px;
-  line-height: 1.55;
-  color: var(--text-dim);
-  margin: 0 0 18px;
-}
-.detail-trending {
-  background: linear-gradient(135deg, rgba(34,201,106,0.10), rgba(34,201,106,0.03));
-  border: 1px solid var(--accent-edge);
-  border-radius: 10px;
+/* ---------- gas calculator ---------- */
+.gas-calc {
+  background: var(--bg-2);
+  border: 1px solid var(--line);
+  border-radius: 12px;
   padding: 14px;
-  font-size: 13px;
-  line-height: 1.5;
-  color: var(--text-dim);
   margin-bottom: 22px;
+}
+.gas-fields {
+  display: grid;
+  gap: 10px;
+}
+.gas-field {
+  display: grid;
+  grid-template-columns: 90px 1fr;
+  align-items: center;
+  gap: 10px;
+}
+.gas-label {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 11px;
+  color: var(--text-faint);
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+.gas-input-wrap {
+  display: flex;
+  align-items: center;
+  background: var(--bg-1);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 0 10px;
+  transition: border-color 0.15s;
+}
+.gas-input-wrap:focus-within { border-color: var(--accent); }
+.gas-input-wrap input {
+  flex: 1;
+  min-width: 0;
+  background: transparent;
+  border: none;
+  outline: none;
+  color: var(--text);
+  font-family: inherit;
+  font-size: 13px;
+  padding: 8px 0;
+  -moz-appearance: textfield;
+}
+.gas-input-wrap input::-webkit-outer-spin-button,
+.gas-input-wrap input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+.gas-unit {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 11px;
+  color: var(--text-faint);
+  letter-spacing: 0.04em;
+  flex-shrink: 0;
+}
+.gas-unit-pre { margin-right: 4px; }
+.gas-result {
+  margin-top: 14px;
+  padding-top: 12px;
+  border-top: 1px dashed var(--line);
+  display: grid;
+  gap: 6px;
+}
+.gas-result-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  font-size: 13px;
+}
+.gas-result-label {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 11px;
+  color: var(--text-faint);
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+.gas-result-value {
+  color: var(--text);
+  font-weight: 500;
+  font-variant-numeric: tabular-nums;
+}
+.gas-result-total .gas-result-label { color: var(--text-dim); }
+.gas-result-total .gas-result-value {
+  color: var(--accent);
+  font-size: 18px;
+  font-weight: 600;
 }
 
 .detail-actions {

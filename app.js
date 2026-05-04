@@ -535,7 +535,7 @@ function wireSearch() {
     state.filtered = !q
       ? state.routes.slice()
       : state.routes.filter(r => {
-          const hay = [r.title, r.origin, r.destination, (r.waypoints||[]).join(' '), r.whyTrending||'']
+          const hay = [r.title, r.origin, r.destination, (r.waypoints||[]).join(' ')]
             .join(' ').toLowerCase();
           return hay.includes(q);
         });
@@ -599,7 +599,6 @@ function selectRoute(id, { fly = false } = {}) {
 
 function renderDetail(r) {
   const wp = (r.waypoints || []);
-  const dur = r.scriptDurationSeconds ? `${r.scriptDurationSeconds}s` : '—';
   const dist = r.totalDistance ? `${r.totalDistance.toLocaleString()} km` : '—';
 
   const html = `
@@ -630,21 +629,9 @@ function renderDetail(r) {
         <div class="detail-stat-label">Distance</div>
         <div class="detail-stat-value">${dist}</div>
       </div>
-      <div class="detail-stat">
-        <div class="detail-stat-label">Voiceover</div>
-        <div class="detail-stat-value">${dur}</div>
-      </div>
     </div>
 
-    ${r.script ? `
-      <div class="detail-section-title">The script</div>
-      <p class="detail-script">${escapeHtml(r.script)}</p>
-    ` : ''}
-
-    ${r.whyTrending ? `
-      <div class="detail-section-title">Why it's trending</div>
-      <div class="detail-trending">${escapeHtml(r.whyTrending)}</div>
-    ` : ''}
+    ${r.totalDistance ? renderGasCalc(r) : ''}
 
     <div class="detail-actions">
       <a class="btn-primary" href="${buildDeepLink(r.id)}" data-route="${r.id}">
@@ -660,8 +647,89 @@ function renderDetail(r) {
 
   document.getElementById('detailContent').innerHTML = html;
 
+  if (r.totalDistance) wireGasCalc(r);
+
   const btn = document.querySelector('.btn-primary[data-route]');
   if (btn) btn.addEventListener('click', (e) => { e.preventDefault(); tryDeepLink(r.id); });
+}
+
+/* ============================================================
+   Gas / fuel cost calculator (per route)
+   ------------------------------------------------------------
+   Distance is pre-filled from the route's totalDistance. Fuel
+   efficiency and price are user-editable; defaults are sensible
+   middle-of-the-road values that the user can override.
+   ============================================================ */
+
+const GAS_DEFAULTS = { efficiency: 12, price: 1.40 };  // 12 km/L, $1.40/L
+
+function renderGasCalc(r) {
+  return `
+    <div class="detail-section-title">Fuel cost estimate</div>
+    <div class="gas-calc">
+      <div class="gas-fields">
+        <label class="gas-field">
+          <span class="gas-label">Distance</span>
+          <span class="gas-input-wrap">
+            <input id="gasDist" type="number" min="0" step="1" value="${r.totalDistance}" inputmode="decimal" />
+            <span class="gas-unit">km</span>
+          </span>
+        </label>
+        <label class="gas-field">
+          <span class="gas-label">Mileage</span>
+          <span class="gas-input-wrap">
+            <input id="gasEff" type="number" min="0.1" step="0.1" value="${GAS_DEFAULTS.efficiency}" inputmode="decimal" />
+            <span class="gas-unit">km/L</span>
+          </span>
+        </label>
+        <label class="gas-field">
+          <span class="gas-label">Fuel price</span>
+          <span class="gas-input-wrap">
+            <span class="gas-unit gas-unit-pre">$</span>
+            <input id="gasPrice" type="number" min="0" step="0.01" value="${GAS_DEFAULTS.price.toFixed(2)}" inputmode="decimal" />
+            <span class="gas-unit">/L</span>
+          </span>
+        </label>
+      </div>
+      <div class="gas-result">
+        <div class="gas-result-row">
+          <span class="gas-result-label">Fuel needed</span>
+          <span class="gas-result-value" id="gasLiters">—</span>
+        </div>
+        <div class="gas-result-row gas-result-total">
+          <span class="gas-result-label">Trip cost</span>
+          <span class="gas-result-value" id="gasTotal">—</span>
+        </div>
+      </div>
+    </div>
+  `;
+}
+
+function wireGasCalc(r) {
+  const distEl  = document.getElementById('gasDist');
+  const effEl   = document.getElementById('gasEff');
+  const priceEl = document.getElementById('gasPrice');
+  if (!distEl || !effEl || !priceEl) return;
+
+  const update = () => {
+    const d = parseFloat(distEl.value);
+    const e = parseFloat(effEl.value);
+    const p = parseFloat(priceEl.value);
+    const litersEl = document.getElementById('gasLiters');
+    const totalEl  = document.getElementById('gasTotal');
+    if (!Number.isFinite(d) || !Number.isFinite(e) || !Number.isFinite(p) || e <= 0 || d < 0 || p < 0) {
+      litersEl.textContent = '—';
+      totalEl.textContent  = '—';
+      return;
+    }
+    const liters = d / e;
+    const total  = liters * p;
+    litersEl.textContent = `${liters.toFixed(1)} L`;
+    totalEl.textContent  = `$${total.toFixed(2)}`;
+  };
+
+  [distEl, effEl, priceEl].forEach(el => el.addEventListener('input', update));
+  update();
 }
 
 /* ============================================================
