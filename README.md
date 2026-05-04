@@ -1,4 +1,5 @@
-# mapsoftheworldroutes
+# Maps Of The World Routes
+<img width="2752" height="1536" alt="_task_image_recreation_2k_202601221737" src="https://github.com/user-attachments/assets/bcd0b5b9-ed07-4111-bb57-a754bfec33b8" />
 
 Interactive 3D globe site that plots the roadtrips from [@mapsoftheworldroutes](https://www.tiktok.com/@mapsoftheworldroutes). Each route on the site is a real itinerary that was animated for TikTok, Instagram and YouTube using [TravelAnimator](https://travelanimator.com); clicking *Open in TravelAnimator* deep-links straight into the same route inside the app.
 
